@@ -18,9 +18,9 @@ I used to direct people to my [goodreads shelf](https://www.goodreads.com/review
 
 I focused on technical writing for developers.
 
-My thesis was that developers are lazy and would prefer to search for and copy-paste answers online than understand an API or read a book.
+My thesis was that developers are lazy and would prefer to search for and copy-paste answers online than understand an API or read a technical book.
 
-Therefore I created websites to answer common question in a given niche with the goal of becoming a trusted resources on the topic. I offered free guides and email courses and offered information products for those readers looking to take the next step.
+Therefore I created websites to answer common question in a given niche with the goal of becoming a trusted resources on the topic. I offer free guides and email courses, then offer information products for those readers looking to take the next step.
 
 I also love writing, I love helping/serving, and I love figuring out messy technical topics. The business and model fits me very well. If it does not fit you well, adapt it.
 
