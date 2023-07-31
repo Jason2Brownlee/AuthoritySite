@@ -39,7 +39,7 @@ The resources I suggest have this thesis in mind. I re-read many of these books 
 Historical content that had a big impact on me circa 2013.
 
 * [Lifestyle Business Podcast](https://web.archive.org/web/20130117204305/http://www.lifestylebusinesspodcast.com/) (archived)
-* [Adsense Flippers](https://web.archive.org/web/20120101013606/http://adsenseflippers.com/) archived
+* [Adsense Flippers](https://web.archive.org/web/20120101013606/http://adsenseflippers.com/) (archived)
 * [Internet Business Mastery](https://web.archive.org/web/20130330065233/http://internetbusinessmastery.com/) (archived)
 * [Foolish Adventure](https://web.archive.org/web/20130102081309/http://foolishadventure.com/) (archived)
 * [Stacking the Bricks](https://stackingthebricks.com/podcast/)
@@ -48,6 +48,14 @@ Historical content that had a big impact on me circa 2013.
 * [Yaro Starak](https://yaro.blog/)
 * [ProBlogger](https://problogger.com/)
 
+### Courses
+
+I think these are all dead, but they all had a massive impact. The authors should sell them on gumroad or something, old timers like we would re-consume them!
+
+* [Altitude](https://ebenpagantraining.com/product/altitude/), Eben Pagan.
+* [Internet Business Mastery Academy](https://web.archive.org/web/20140227033939/http://internetbusinessmastery.com/academy/a3/login/) (archived), Jeremy and Jason.
+* [Micropreneur Academy](https://web.archive.org/web/20130115104116/http://www.micropreneur.com/) (archived), Rob Walling and Mike Taber.
+	* Became [FounderCafe](https://www.foundercafe.com/)
 
 ### Articles
 
@@ -61,7 +69,6 @@ Historical content that had a big impact on me circa 2013.
 * Crush It!: Why Now Is the Time to Cash In on Your Passion, Gary Vaynerchuk.
 * Crushing It!: How Great Entrepreneurs Build Their Business and Influence—and How You Can, Too, Gary Vaynerchuk.
 * Be Obsessed or Be Average, Grant Cardone.
-* Get Altitude (course), Eben Pagan.
 * The Almanack of Naval Ravikant: A Guide to Wealth and Happiness, Eric Jorgenson.
 * The Practice: Shipping Creative Work, Seth Godin.
 * The Minimalist Entrepreneur: How Great Founders Do More with Less, Sahil Lavingia.
