@@ -26,7 +26,7 @@ I also love writing, I love helping/serving, and I love figuring out messy techn
 
 The resources I suggest below have this thesis in mind. I have most books in multiple formats and re-read many of them each year as a reminder.
 
-## Authority Sites / Business Mindset
+## Blogs, Podcasts, Courses
 
 ### Blogs/Podcasts
 
@@ -62,6 +62,9 @@ I think these are all dead, but they all had a massive impact. The authors shoul
 
 * [1000 true fans](https://kk.org/thetechnium/1000-true-fans/), Kevin Kelly.
 * [Essays](http://www.paulgraham.com/articles.html), Paul Graham.
+
+
+## Authority Sites
 
 ### Website / Digital Business
 
@@ -149,7 +152,7 @@ I think these are all dead, but they all had a massive impact. The authors shoul
 * [Every Page Is Page One](https://amzn.to/3OD6eFA), Mark Baker.
 
 
-## Information Products
+### Information Products
 
 * [Authority: A Step-by-Step Guide to Self-Publishing](https://amzn.to/458KQgN), Nathan Barry.
 * [Write Useful Books: A modern approach to designing and refining recommendable nonfiction](https://amzn.to/3KJQWN9), Rob Fitzpatrick.
