@@ -18,7 +18,7 @@ I used to direct people to my goodreads [authority shelf](https://www.goodreads.
 
 I focused on technical writing for developers.
 
-My thesis was that developers are lazy and would prefer to search for and copy-paste answers online rather than understand an API or read a technical book (I know, I'm one of them).
+My thesis was that developers are lazy and would prefer to search for and copy-paste answers online rather than understand an API or read a technical book (I know, I'm one of them). I call this _no one will RTFM_.
 
 Therefore I created websites to answer all the common questions in a given niche with the goal of becoming a trusted resources. I offer free tutorials, free guides and free email courses, then offer paid information products for those readers looking to take the next step.
 
@@ -57,10 +57,10 @@ Historical content that had a big impact on me circa 2013.
 
 I think these are all dead, but they all had a massive impact. The authors should sell them on gumroad or something, old timers like we would re-consume them!
 
-* [Altitude](https://ebenpagantraining.com/product/altitude/), Eben Pagan.
 * [Internet Business Mastery Academy](https://web.archive.org/web/20140227033939/http://internetbusinessmastery.com/academy/a3/login/) (archived), Jeremy and Jason.
 * [Micropreneur Academy](https://web.archive.org/web/20130115104116/http://www.micropreneur.com/) (archived), Rob Walling and Mike Taber.
 	* Became [FounderCafe](https://www.foundercafe.com/)
+* [Altitude](https://ebenpagantraining.com/product/altitude/), Eben Pagan.
 
 ### Essays
 
@@ -84,6 +84,7 @@ I think these are all dead, but they all had a massive impact. The authors shoul
 ### Work Solo
 
 * [The Million-Dollar, One-Person Business: Make Great Money. Work the Way You Like. Have the Life You Want](https://amzn.to/3DDpRqO), Elaine Pofeldt.
+* [Small Giants: Companies That Choose to Be Great Instead of Big](https://amzn.to/3Olvj6H), Bo Burlingham.
 * [Company Of One: Why Staying Small Is the Next Big Thing for Business](https://amzn.to/3QkTTas), Paul Jarvis.
 * [Start Small, Stay Small: A Developer's Guide to Launching a Startup](https://amzn.to/3YhpcVx), Rob Walling.
 * [Tiny Business, Big Money: Strategies for Creating a High-Revenue Microbusiness](https://amzn.to/3DBBTks), Elaine Pofeldt.
@@ -95,7 +96,7 @@ I think these are all dead, but they all had a massive impact. The authors shoul
 * [Ready, Fire, Aim: Zero to $100 Million in No Time Flat](https://amzn.to/3Ql9VAT), Michael Masterson.
 * [Zero to One: Notes on Start Ups, or How to Build the Future](https://amzn.to/3qaXey2), Blake Masters and Peter Thiel.
 * [Business Made Simple: 60 Days to Master Leadership, Sales, Marketing, Execution, Management, Personal Productivity and More](https://amzn.to/3Ko8fTI), Donald Miller.
-
+* [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About](https://amzn.to/3DDCv9b), Michael Gerber.
 
 ## Nice Selection
 
