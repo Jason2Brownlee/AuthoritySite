@@ -18,13 +18,13 @@ I used to direct people to my goodreads [authority shelf](https://www.goodreads.
 
 I focused on technical writing for developers.
 
-My thesis was that developers are lazy and would prefer to search for and copy-paste answers online than understand an API or read a technical book (I know, I'm one of them).
+My thesis was that developers are lazy and would prefer to search for and copy-paste answers online rather than understand an API or read a technical book (I know, I'm one of them).
 
-Therefore I created websites to answer all the common question in a given niche with the goal of becoming a trusted resources. I offer free tutorials, free guides and free email courses, then offer paid information products for those readers looking to take the next step.
+Therefore I created websites to answer all the common questions in a given niche with the goal of becoming a trusted resources. I offer free tutorials, free guides and free email courses, then offer paid information products for those readers looking to take the next step.
 
 I also love writing, I love helping/serving, and I love figuring out messy technical topics. The business and model fits me very well. If it does not fit you well, adapt it.
 
-The resources I suggest have this thesis in mind. I re-read many of these books each year as a reminder.
+The resources I suggest below have this thesis in mind. I have most books in multiple formats and re-read many of them each year as a reminder.
 
 ## Authority Sites / Business Mindset
 
@@ -204,12 +204,15 @@ I think these are all dead, but they all had a massive impact. The authors shoul
 
 I have added links to all books on Amazon.
 
-If you purchase a book from amazon using my look, it supports this work.
+If you purchase a book from amazon using my links, thank you, it supports this work.
 
 As an Amazon Associate I earn from qualifying purchases.
 
 ## Final Word
 
-If you find any of these resources useful or want to chat about authority sites, send me an email: jason.brownlee05@gmail.com
+As you can see, I love books. If you have any recommendations, let me know.
 
+If you find any of these resources useful or want to chat about authority sites, send me an email.
 
+Jason Brownlee
+jason.brownlee05@gmail.com
