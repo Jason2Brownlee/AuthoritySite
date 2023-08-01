@@ -39,14 +39,18 @@ The resources I suggest below have this thesis in mind. I have most books in mul
 Historical content that had a big impact on me circa 2013.
 
 * [Lifestyle Business Podcast](https://web.archive.org/web/20130117204305/http://www.lifestylebusinesspodcast.com/) (archived), Dan and Ian.
+	* Became [TropicalMBA](https://tropicalmba.com/)
 * [Adsense Flippers](https://web.archive.org/web/20120101013606/http://adsenseflippers.com/) (archived), Justin Cooke and Joe Magnotti.
 	* Became [Empire Flippers](https://empireflippers.com/)
 * [Internet Business Mastery](https://web.archive.org/web/20130330065233/http://internetbusinessmastery.com/) (archived), Jeremy and Jason.
 * [Foolish Adventure](https://web.archive.org/web/20130102081309/http://foolishadventure.com/) (archived), Tim Conley.
+	* Became [Tim Conley](https://timconley.webflow.io/)
+* [Super Fast Business](https://web.archive.org/web/20140113035135/http://www.superfastbusiness.com/) (archived), James Schramko.
+	* Became: [JamesSchramko.com](https://www.jamesschramko.com/)
+* [Entrepreneurs Journey](https://web.archive.org/web/20130115055320/http://entrepreneurs-journey.com/), (archived), Yaro Starak.
+	* Became [Yaro.com](https://yaro.blog/)
 * [Stacking the Bricks](https://stackingthebricks.com/podcast/), Amy Hoy.
-* [James Schramko](https://www.jamesschramko.com/), James Schramko.
 * [Smart Passive Income](https://www.smartpassiveincome.com/), Pat Flynn.
-* [Yaro Starak](https://yaro.blog/), Yaro Starak
 * [ProBlogger](https://problogger.com/), Darren Rowse.
 
 ### Courses
@@ -58,11 +62,11 @@ I think these are all dead, but they all had a massive impact. The authors shoul
 * [Micropreneur Academy](https://web.archive.org/web/20130115104116/http://www.micropreneur.com/) (archived), Rob Walling and Mike Taber.
 	* Became [FounderCafe](https://www.foundercafe.com/)
 
-### Articles
+### Essays
 
-* [1000 true fans](https://kk.org/thetechnium/1000-true-fans/), Kevin Kelly.
-* [Essays](http://www.paulgraham.com/articles.html), Paul Graham.
-
+* [1000 True Fans](https://kk.org/thetechnium/1000-true-fans/), Kevin Kelly.
+* [Paul Graham Essays](http://www.paulgraham.com/articles.html), Paul Graham.
+* [Derek Sivers Essays](https://sive.rs/blog), Derek Sivers.
 
 ## Authority Sites
 
@@ -75,20 +79,23 @@ I think these are all dead, but they all had a massive impact. The authors shoul
 * [The Minimalist Entrepreneur: How Great Founders Do More with Less](https://amzn.to/43KOEUl), Sahil Lavingia.
 * [How to Get Paid for What You Know: Turning Your Knowledge, Passion, and Experience into an Online Income Stream in Your Spare Time](https://amzn.to/44ZVHd0), Graham Cochrane.
 * [Building A Niche Site Empire](https://amzn.to/45d1vA5), John DeVries.
+* [Work Less, Make More: The counter-intuitive approach to building a profitable business, and a life you actually love](https://amzn.to/3OMDBWN), James Schramko.
 
 ### Work Solo
 
 * [The Million-Dollar, One-Person Business: Make Great Money. Work the Way You Like. Have the Life You Want](https://amzn.to/3DDpRqO), Elaine Pofeldt.
 * [Company Of One: Why Staying Small Is the Next Big Thing for Business](https://amzn.to/3QkTTas), Paul Jarvis.
 * [Start Small, Stay Small: A Developer's Guide to Launching a Startup](https://amzn.to/3YhpcVx), Rob Walling.
+* [Tiny Business, Big Money: Strategies for Creating a High-Revenue Microbusiness](https://amzn.to/3DBBTks), Elaine Pofeldt.
 
 ### Business
 
 * [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://amzn.to/3QhEhUX), Eric Jorgenson.
+* [The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich](https://amzn.to/47ifFl1), Timothy Ferriss .
 * [Ready, Fire, Aim: Zero to $100 Million in No Time Flat](https://amzn.to/3Ql9VAT), Michael Masterson.
 * [Zero to One: Notes on Start Ups, or How to Build the Future](https://amzn.to/3qaXey2), Blake Masters and Peter Thiel.
 * [Business Made Simple: 60 Days to Master Leadership, Sales, Marketing, Execution, Management, Personal Productivity and More](https://amzn.to/3Ko8fTI), Donald Miller.
-* [Work Less, Make More: The counter-intuitive approach to building a profitable business, and a life you actually love](https://amzn.to/3OMDBWN), James Schramko.
+
 
 ## Nice Selection
 
@@ -99,7 +106,7 @@ I think these are all dead, but they all had a massive impact. The authors shoul
 
 ## Operations
 
-### Grind Smart and Hard
+### Work Smart/Hard
 
 * [Be Obsessed or Be Average](https://amzn.to/44N6kjL), Grant Cardone.
 * [If You're Not First, You're Last: Sales Strategies to Dominate Your Market and Beat Your Competition](https://amzn.to/3DD8aaU), Grant Cardone.
