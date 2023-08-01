@@ -40,7 +40,7 @@ Historical content that had a big impact on me circa 2013.
 
 * [Lifestyle Business Podcast](https://web.archive.org/web/20130117204305/http://www.lifestylebusinesspodcast.com/) (archived), Dan and Ian.
 * [Adsense Flippers](https://web.archive.org/web/20120101013606/http://adsenseflippers.com/) (archived), Justin Cooke and Joe Magnotti.
-** Became [Empire Flippers](https://empireflippers.com/)
+	* Became [Empire Flippers](https://empireflippers.com/)
 * [Internet Business Mastery](https://web.archive.org/web/20130330065233/http://internetbusinessmastery.com/) (archived), Jeremy and Jason.
 * [Foolish Adventure](https://web.archive.org/web/20130102081309/http://foolishadventure.com/) (archived), Tim Conley.
 * [Stacking the Bricks](https://stackingthebricks.com/podcast/), Amy Hoy.
