@@ -14,6 +14,8 @@ I have written a book of my own on the subject (for my sons) telling the story o
 
 I used to direct people to my goodreads [authority shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=authority-site) and [writing shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=writing), but it is too hard to navigate.
 
+**Remember**: Reading books without changing behavior or taking action is procrastination. Start then read.
+
 ## Thesis
 
 I focused on technical writing for developers.
@@ -215,6 +217,12 @@ I think these are all dead, but they all had a massive impact. The authors shoul
 * [Finish Big: How Great Entrepreneurs Exit Their Companies on Top](https://amzn.to/3KhOTPN), Bo Burlingham.
 * [Before The Exit: Thought Experiments For Entrepreneurs](https://amzn.to/3KhQ5Th), Dan Andrews.
 
+After exiting, you have to deal with two things:
+
+1. Now what? What is the meaning of life?
+2. What do you with the money? How do you invest and live off investments?
+
+See my goodreads [shelf on retirement](https://www.goodreads.com/review/list/5243638-jason?shelf=retirement) and [shelf on personal finance](https://www.goodreads.com/review/list/5243638-jason?shelf=personal-finance) for how I explored these issues.
 
 ## Disclosure
 
