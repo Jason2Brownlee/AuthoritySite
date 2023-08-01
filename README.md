@@ -1,6 +1,6 @@
-# Authority Site Resources
+# Authority Site Advice
 
-Resources on how to develop, operate, and sell an authority website.
+Advice on how to develop, operate, and sell an authority website .
 
 ## About
 
@@ -10,7 +10,7 @@ I've had some success developing, running, and selling authority websites and ov
 
 This project captures my advice, basically to read high quality books on the topic and do what they say.
 
-I have written a book of my own on the subject (for my sons) telling the story of how I built, ran, and sold a 7-figure site and I may release it publicly one day, but not yet. Until then, this project contains my best advice in the form of a reading list.
+I have written a book of my own on the subject (for my sons) telling the story of how I built, ran, and sold a 7-figure site (titled "_The Story of Machine Learning Mastery: How I Built, Operated, and Sold a Multimillion-Dollar Website_"). I may release it publicly one day, but not yet. Until then, this project contains my best advice in the form of a reading list.
 
 I used to direct people to my goodreads [authority shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=authority-site) and [writing shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=writing), but it is too hard to navigate.
 
@@ -18,7 +18,7 @@ I used to direct people to my goodreads [authority shelf](https://www.goodreads.
 
 I focused on technical writing for developers.
 
-My thesis was that developers are lazy and would prefer to search for and copy-paste answers online rather than understand an API or read a technical book (I know, I'm one of them). I call this _no one will RTFM_.
+My thesis was that developers are lazy and would prefer to search for and copy-paste answers online rather than understand an API or read a technical book (I know, I'm one of them). I refer to this as: "_no one will RTFM_".
 
 Therefore I created websites to answer all the common questions in a given niche with the goal of becoming a trusted resources. I offer free tutorials, free guides and free email courses, then offer paid information products for those readers looking to take the next step.
 
@@ -121,11 +121,13 @@ I think these are all dead, but they all had a massive impact. The authors shoul
 * [Steal Like an Artist: 10 Things Nobody Told You About Being Creative](https://amzn.to/3ODXjDG), Austin Kleon.
 * [Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered](https://amzn.to/3ODXxe0), Austin Kleon.
 * [Keep Going: 10 Ways to Stay Creative in Good Times and Bad](https://amzn.to/456O2d0), Austin Kleon.
+* [The Icarus Deception: How High Will You Fly?](https://amzn.to/44QrgGu), Seth Godin.
 
 ### Engage to Learn
 
 * [Superfans: The Easy Way to Stand Out, Grow Your Tribe, And Build a Successful Business](https://amzn.to/455vQAn), Pat Flynn.
 * [Ask: The Counterintuitive Online Formula to Discover Exactly What Your Customers Want to Buy...Create a Mass of Raving Fans...and Take Any Business to the Next Level](https://amzn.to/3YhWBiS), Ryan Levesque.
+* [Tribes: We need you to lead us](https://amzn.to/3rZNlUj), Seth Godin.
 
 ### Daily Results Compound
 
@@ -176,7 +178,6 @@ I think these are all dead, but they all had a massive impact. The authors shoul
 ## Sales and Marketing
 
 * [80/20 Sales and Marketing: The Definitive Guide to Working Less and Making More](https://amzn.to/43OTP5R), Perry Marshall.
-* [Invisible Selling Machine](https://amzn.to/44UPlMw), Ryan Deiss.
 * [Digital Marketing For Dummies](https://amzn.to/3rUufz5), Ryan Deiss.
 * [Building a StoryBrand: Clarify Your Message So Customers Will Listen](https://amzn.to/459q6pf), Donald Miller.
 * [Marketing Made Simple: A Step-by-Step StoryBrand Guide for Any Business](https://amzn.to/3Yk0GTB), Donald Miller.
@@ -186,6 +187,10 @@ I think these are all dead, but they all had a massive impact. The authors shoul
 * [Magnetic Marketing: How To Attract A Flood Of New Customers That Pay, Stay, and Refer](https://amzn.to/3Of7flJ), Dan Kennedy.
 * [Influence: The Psychology of Persuasion](https://amzn.to/3QkTZPp), Robert Cialdini.
 
+### Email Marketing
+
+* [Permission Marketing](https://amzn.to/47hjCGA), Seth Godin.
+* [Invisible Selling Machine](https://amzn.to/44UPlMw), Ryan Deiss.
 
 ### Positioning
 
