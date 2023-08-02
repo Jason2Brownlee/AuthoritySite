@@ -24,7 +24,7 @@ My thesis is that developers are lazy and would prefer to search for and copy-pa
 
 Therefore I created websites to answer all the common questions in a given niche with the goal of becoming a trusted resources. I offer free tutorials, free guides and free email courses, then offer paid information products for those readers looking to take the next step.
 
-I also love writing, I love helping/serving, and I love figuring out messy technical topics. The business and model fits me very well. If it does not fit you well, adapt it.
+I also love daily writing, I love helping/serving developers, and I love figuring out messy technical topics. Therefore, the business model and work required fit me well. Consider whether they fit you.
 
 The resources I recommend below support this thesis.
 
