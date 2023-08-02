@@ -1,6 +1,6 @@
 # Authority Site Advice
 
-Advice on how to develop, operate, and sell an authority website .
+Advice on how to develop, operate, and sell an authority website.
 
 ## About
 
@@ -113,7 +113,7 @@ If I was starting today, I would take the following courses:
 * [Business Made Simple: 60 Days to Master Leadership, Sales, Marketing, Execution, Management, Personal Productivity and More](https://amzn.to/3Ko8fTI), Donald Miller.
 * [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About](https://amzn.to/3DDCv9b), Michael Gerber.
 
-## Nice Selection
+## Niche Selection
 
 * [Will It Fly?: How to Test Your Next Business Idea So You Don't Waste Your Time and Money](https://amzn.to/44N6FD3), Pat Flynn.
 * [Choose: The Single Most Important Decision Before Starting Your Business](https://amzn.to/3rVP0KU), Ryan Levesque.
@@ -233,9 +233,9 @@ If I was starting today, I would take the following courses:
 After exiting, you have to deal with two things:
 
 1. Now what? What is the meaning of life?
-2. What do you with the money? How do you invest and live off investments?
+2. What do you with the money? How do you invest and live off investment income?
 
-See my goodreads [shelf on retirement](https://www.goodreads.com/review/list/5243638-jason?shelf=retirement) and [shelf on personal finance](https://www.goodreads.com/review/list/5243638-jason?shelf=personal-finance) for how I explored these issues.
+See my goodreads [retirement shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=retirement) and [personal finance shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=personal-finance) for how I explored these issues.
 
 ## Disclosure
 
