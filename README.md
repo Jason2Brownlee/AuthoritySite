@@ -6,9 +6,11 @@ Advice on how to develop, operate, and sell an authority website.
 
 An authority website is a highly trusted and reputable online platform recognized for its extensive, well-researched content and expertise in a specific niche or industry.
 
-I've had some success developing, running, and selling authority websites (e.g. [CleverAlgorithms](https://web.archive.org/web/20130120074424/CleverAlgorithms.com) (archived), [MobileGameEngines](https://web.archive.org/web/20131108154500/http://mobilegameengines.com/) (archived), [MachineLearningMastery](https://MachineLearningMastery.com) (sold), and [SuperFastPython](https://SuperFastPython.com)). Over the years I'm often asked questions about how to get started.
+I've had some success developing, running, and selling authority websites, having written thousands of tutorials, many tens of books, received millions of pageviews per month, and sold many millions of dollars of digital products (e.g. [CleverAlgorithms](https://web.archive.org/web/20130120074424/CleverAlgorithms.com) (archived), [MobileGameEngines](https://web.archive.org/web/20131108154500/http://mobilegameengines.com/) (archived), [MachineLearningMastery](https://MachineLearningMastery.com) (sold), and [SuperFastPython](https://SuperFastPython.com)).
 
-This project captures my advice, basically to read high quality books on the topic and do what they say.
+Over the years I'm often asked questions about how to get started with authority websites.
+
+This project captures my best advice: to read high quality books on the topic and do what they say.
 
 I have written a book of my own on the subject (for my sons) telling the story of how I built, ran, and sold a 7-figure site (titled "_The Story of Machine Learning Mastery: How I Built, Operated, and Sold a Multimillion-Dollar Website_"). I may release it publicly one day, but not yet. Until then, this project contains my best advice in the form of a reading list.
 
