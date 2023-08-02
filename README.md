@@ -86,6 +86,7 @@ If I was starting today, I would take the following courses:
 * [How to Get Rich](https://nav.al/rich), Naval Ravikant.
 * [The Stair Step Method of Bootstrapping](https://robwalling.com/2015/03/26/the-stair-step-method-of-bootstrapping/), Rob Walling.
 	* [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/), Nathan Barry.
+* [The 1000 Day Rule : What Living the Dream Really Looks Like](https://tropicalmba.com/articles/living-the-dream), Dan.
 
 ## Authority Sites
 
