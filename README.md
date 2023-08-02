@@ -33,11 +33,11 @@ The resources I recommend below support this thesis.
 
 ### Blogs/Podcasts
 
-* [AuthorityHacker](https://www.authorityhacker.com/)
-* [Tropical MBA](https://tropicalmba.com/)
-* [Niche Pursuits](https://www.nichepursuits.com/)
-* [My First Million](https://www.mfmpod.com/)
-* [Founders](https://founders.simplecast.com/)
+* [AuthorityHacker](https://www.authorityhacker.com/), Mark and Gael.
+* [Tropical MBA](https://tropicalmba.com/), Dan and Ian.
+* [Niche Pursuits](https://www.nichepursuits.com/), Spencer Haws.
+* [My First Million](https://www.mfmpod.com/), Sam and Shaan.
+* [Founders](https://founders.simplecast.com/), David Senra.
 
 Historical content that had a big impact on me circa 2013.
 
@@ -53,13 +53,13 @@ Historical content that had a big impact on me circa 2013.
 * [Entrepreneurs Journey](https://web.archive.org/web/20130115055320/http://entrepreneurs-journey.com/), (archived), Yaro Starak.
 	* Became [Yaro.com](https://yaro.blog/)
 * [The Rise To The Top](https://web.archive.org/web/20130126031204/http://www.therisetothetop.com/) (archived), David Siteman Garland.
-* [Stacking the Bricks](https://stackingthebricks.com/podcast/), Amy Hoy.
+* [Stacking the Bricks](https://stackingthebricks.com/podcast/), Amy Hoy and Alex Hillman.
 * [Smart Passive Income](https://www.smartpassiveincome.com/), Pat Flynn.
 * [ProBlogger](https://problogger.com/), Darren Rowse.
 
 ### Courses
 
-I think these are all dead, but they all had a massive impact. The authors should sell them on gumroad or something, old timers like we would re-consume them!
+I think these are all dead, but they all had a massive impact.
 
 * [Internet Business Mastery Academy](https://web.archive.org/web/20140227033939/http://internetbusinessmastery.com/academy/a3/login/) (archived), Jeremy and Jason.
 * [Micropreneur Academy](https://web.archive.org/web/20130115104116/http://www.micropreneur.com/) (archived), Rob Walling and Mike Taber.
@@ -67,11 +67,21 @@ I think these are all dead, but they all had a massive impact. The authors shoul
 * [Empire Starter Pack: Premium](https://web.archive.org/web/20130810134618/http://empireflippers.com/empire-starter-packs/) (archived), Justin Cooke and Joe Magnotti.
 * [Altitude](https://ebenpagantraining.com/product/altitude/), Eben Pagan.
 
+If I was starting today, I would take the following courses:
+
+* [30x500 Academy](https://30x500.com/academy/), Amy Hoy and Alex Hillman
+* [The Authority Site System or AuthorityHacker Pro](https://www.authorityhacker.com/courses/), Mark and Gael.
+* [Monthly1K](https://appsumo.com/products/monthly1k/), Noah Kagan.
+
+
 ### Essays
 
 * [1000 True Fans](https://kk.org/thetechnium/1000-true-fans/), Kevin Kelly.
 * [Paul Graham Essays](http://www.paulgraham.com/articles.html), Paul Graham.
 * [Derek Sivers Essays](https://sive.rs/blog), Derek Sivers.
+* [How to Get Rich](https://nav.al/rich), Naval Ravikant.
+* [The Stair Step Method of Bootstrapping](https://robwalling.com/2015/03/26/the-stair-step-method-of-bootstrapping/), Rob Walling.
+	* [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/), Nathan Barry.
 
 ## Authority Sites
 
