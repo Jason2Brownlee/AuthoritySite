@@ -20,13 +20,14 @@ I used to direct people to my goodreads [authority shelf](https://www.goodreads.
 
 I focused on technical writing for developers.
 
-My thesis was that developers are lazy and would prefer to search for and copy-paste answers online rather than understand an API or read a technical book (I know, I'm one of them). I refer to this as: "_no one will RTFM_".
+My thesis is that developers are lazy and would prefer to search for and copy-paste answers online rather than understand an API or read a technical book (I know, I'm one of them). I refer to this as: "_no one will RTFM_".
 
 Therefore I created websites to answer all the common questions in a given niche with the goal of becoming a trusted resources. I offer free tutorials, free guides and free email courses, then offer paid information products for those readers looking to take the next step.
 
 I also love writing, I love helping/serving, and I love figuring out messy technical topics. The business and model fits me very well. If it does not fit you well, adapt it.
 
-The resources I suggest below have this thesis in mind. I have most books in multiple formats and re-read many of them each year as a reminder.
+The resources I recommend below support this thesis.
+
 
 ## Blogs, Podcasts, Courses
 
