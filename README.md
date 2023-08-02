@@ -69,6 +69,8 @@ I think these are all dead, but they all had a massive impact.
 * [Micropreneur Academy](https://web.archive.org/web/20130115104116/http://www.micropreneur.com/) (archived), Rob Walling and Mike Taber.
 	* Became [FounderCafe](https://www.foundercafe.com/)
 * [Empire Starter Pack: Premium](https://web.archive.org/web/20130810134618/http://empireflippers.com/empire-starter-packs/) (archived), Justin Cooke and Joe Magnotti.
+* Copy Hackers 7 eBook Bundle, Joanna Wiebe.
+	* Became [CopyHackers Library](https://copyhackers.com/books/)
 * [Altitude](https://ebenpagantraining.com/product/altitude/), Eben Pagan.
 
 If I was starting today, I would take the following courses:
