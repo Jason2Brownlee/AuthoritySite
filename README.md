@@ -51,6 +51,7 @@ Historical content that had a big impact on me circa 2013.
 	* Became: [JamesSchramko.com](https://www.jamesschramko.com/)
 * [Entrepreneurs Journey](https://web.archive.org/web/20130115055320/http://entrepreneurs-journey.com/), (archived), Yaro Starak.
 	* Became [Yaro.com](https://yaro.blog/)
+* [The Rise To The Top](https://web.archive.org/web/20130126031204/http://www.therisetothetop.com/) (archived), David Siteman Garland.
 * [Stacking the Bricks](https://stackingthebricks.com/podcast/), Amy Hoy.
 * [Smart Passive Income](https://www.smartpassiveincome.com/), Pat Flynn.
 * [ProBlogger](https://problogger.com/), Darren Rowse.
