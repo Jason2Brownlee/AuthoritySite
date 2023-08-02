@@ -26,6 +26,8 @@ Therefore I created websites to answer all the common questions in a given niche
 
 I also love daily writing, I love helping/serving developers, and I love figuring out messy technical topics. Therefore, the business model and work required fit me well. Consider whether they fit you.
 
+This model is repeatable, it is a skill that can be taught/learned, and it can be improved upon. Therefore continuous study of the model itself is critical.
+
 The resources I recommend below support this thesis.
 
 
