@@ -10,7 +10,7 @@ I've had some success developing, running, and selling authority websites, havin
 
 Over the years I'm often asked questions about how to get started with authority websites.
 
-This project captures my best advice: to read high quality books on the topic and do what they say.
+This project captures my best advice: to read high quality books on the topic and do what they say. This is how I got started. Importantly, I point out _which_ high quality books to read.
 
 I have written a book of my own on the subject (for my sons) telling the story of how I built, ran, and sold a 7-figure site (titled "_The Story of Machine Learning Mastery: How I Built, Operated, and Sold a Multimillion-Dollar Website_"). I may release it publicly one day, but not yet. Until then, this project contains my best advice in the form of a reading list.
 
