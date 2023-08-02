@@ -62,6 +62,7 @@ I think these are all dead, but they all had a massive impact. The authors shoul
 * [Internet Business Mastery Academy](https://web.archive.org/web/20140227033939/http://internetbusinessmastery.com/academy/a3/login/) (archived), Jeremy and Jason.
 * [Micropreneur Academy](https://web.archive.org/web/20130115104116/http://www.micropreneur.com/) (archived), Rob Walling and Mike Taber.
 	* Became [FounderCafe](https://www.foundercafe.com/)
+* [Empire Starter Pack: Premium](https://web.archive.org/web/20130810134618/http://empireflippers.com/empire-starter-packs/) (archived), Justin Cooke and Joe Magnotti.
 * [Altitude](https://ebenpagantraining.com/product/altitude/), Eben Pagan.
 
 ### Essays
