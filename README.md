@@ -82,25 +82,30 @@ If I was starting today, I would consider the following courses:
 ### Essays
 
 * [1000 True Fans](https://kk.org/thetechnium/1000-true-fans/), Kevin Kelly.
+	* [Notes](notes/1000_true_fans.md)
 * [Paul Graham Essays](http://www.paulgraham.com/articles.html), Paul Graham.
 * [Derek Sivers Essays](https://sive.rs/blog), Derek Sivers.
 * [How to Get Rich](https://nav.al/rich), Naval Ravikant.
 * [The Stair Step Method of Bootstrapping](https://robwalling.com/2015/03/26/the-stair-step-method-of-bootstrapping/), Rob Walling.
-	* [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/), Nathan Barry.
-* [The 1000 Day Rule : What Living the Dream Really Looks Like](https://tropicalmba.com/articles/living-the-dream), Dan.
+	* [Notes](notes/the_stair_step_method_of_bootstrapping.md)
+* [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/), Nathan Barry.
+* [The 1000 Day Rule: What Living the Dream Really Looks Like](https://tropicalmba.com/articles/living-the-dream), Dan Andrews.
 
 ## Books on Authority Sites
 
 ### Website / Digital Business
 
 * [DotCom Secrets: The Underground Playbook for Growing Your Company Online](https://amzn.to/3DAafnW), Russell Brunson.
+	* [Notes](notes/dotcom_secrets.md)
 * [The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!](https://amzn.to/3OCJHss), M.J. DeMarco.
+	* [Notes](notes/the_millionaire_fastlane.md)
 * [Crush It!: Why Now Is the Time to Cash In on Your Passion](https://amzn.to/44OBpU6), Gary Vaynerchuk.
-* [Crushing It!: How Great Entrepreneurs Build Their Business and Influence—and How You Can, Too](https://amzn.to/3DEdBqa), Gary Vaynerchuk.
+	* [Notes](notes/crush_it.md)
 * [The Minimalist Entrepreneur: How Great Founders Do More with Less](https://amzn.to/43KOEUl), Sahil Lavingia.
 * [How to Get Paid for What You Know: Turning Your Knowledge, Passion, and Experience into an Online Income Stream in Your Spare Time](https://amzn.to/44ZVHd0), Graham Cochrane.
 * [Building A Niche Site Empire](https://amzn.to/45d1vA5), John DeVries.
 * [Work Less, Make More: The counter-intuitive approach to building a profitable business, and a life you actually love](https://amzn.to/3OMDBWN), James Schramko.
+	* [Notes](notes/work_less_make_more.md)
 
 ### Work Solo
 
