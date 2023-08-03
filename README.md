@@ -6,13 +6,11 @@ Advice on how to develop, operate, and sell an authority website (niche site) so
 
 An authority website is a highly trusted and reputable online platform recognized for its extensive, well-researched content and expertise in a specific niche or industry.
 
-I've had some success with authority websites, having written thousands of tutorials, many tens of books, received many millions of pageviews per month, sold many millions of dollars of digital products, and exited for multiple 7-figures (e.g. [CleverAlgorithms](https://web.archive.org/web/20130120074424/CleverAlgorithms.com) (archived), [MobileGameEngines](https://web.archive.org/web/20131108154500/http://mobilegameengines.com/) (archived), [MachineLearningMastery](https://MachineLearningMastery.com) (sold), and [SuperFastPython](https://SuperFastPython.com).
+I've had some success with authority websites, having written thousands of tutorials, published many tens of books, received many millions of pageviews per month, sold many millions of dollars of digital products, and exited for multiple 7-figures (e.g. [CleverAlgorithms](https://web.archive.org/web/20130120074424/CleverAlgorithms.com) (archived), [MobileGameEngines](https://web.archive.org/web/20131108154500/http://mobilegameengines.com/) (archived), [MachineLearningMastery](https://MachineLearningMastery.com) (sold), and [SuperFastPython](https://SuperFastPython.com).
 
-Over the years I'm often asked questions about how to get started with authority websites.
+I'm often asked about how to get started with authority websites.
 
 This project captures my best advice: to read high quality books on the topic and do what they say. This is how I got started. Importantly, I point out _which_ high quality books to read.
-
-I have written a book of my own on the subject (for my sons) telling the story of how I built, ran, and sold a 7-figure site (titled "_The Story of Machine Learning Mastery: How I Built, Operated, and Sold a Multimillion-Dollar Website_"). I may release it publicly one day, but not yet. Until then, this project contains my best advice in the form of a reading list.
 
 I used to direct people to my goodreads [authority shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=authority-site) and [writing shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=writing), but it is too hard to navigate.
 
@@ -20,7 +18,7 @@ I used to direct people to my goodreads [authority shelf](https://www.goodreads.
 
 I focused on technical writing for developers.
 
-My thesis is that developers are lazy and would prefer to search for and copy-paste answers online rather than understand an API or read a technical book (I know, I'm one of them). I refer to this as: "_no one will RTFM_".
+My thesis is that developers are lazy and under huge time pressures. They would prefer to search for and copy-paste answers online rather than read API docs. I refer to this as: "_no one will RTFM_". Additionally, most APIs are open source and most API docs are terse and user-unfriendly.
 
 Therefore I created websites to answer all the common questions in a given niche with the goal of becoming a trusted resources. I offer free tutorials, free guides and free email courses, then offer paid information products for those readers looking to take the next step.
 
