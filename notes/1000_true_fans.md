@@ -30,3 +30,13 @@ Kevin Kelly's "1000 True Fans" concept has been influential in the world of crea
 
 1,000 fans each purchasing a $100 product each year will result in an income of $100,000/year.
 
+That is about 84 sales per month.
+
+That is about 3 sales per day.
+
+But, 1,000 true fans is not 1,000 people on your email list or 1,000 visits to the website.
+
+A typical website session to sale conversion ratio for cold traffic might be 0.01% (not 1%), conservatively. Therefore, we would need 30,000 sessions to get 3 sales per day. That is about 900,000 sessions per month or near 11,000,000 visits per year.
+
+Or you can for fewer sales and a more expensive product, e.g. 1 sale of a $300 product with perhaps 10,000 visits per month.
+
