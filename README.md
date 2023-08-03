@@ -1,12 +1,12 @@
 # Authority Site Advice
 
-Advice on how to develop, operate, and sell an authority website (niche site) solo (solopreneur).
+Advice on how to build, operate, and sell an authority website (niche site) by yourself (solopreneur).
 
 ## About
 
 An authority website is a highly trusted and reputable online platform recognized for its extensive, well-researched content and expertise in a specific niche or industry.
 
-I've had some success with authority websites, having written thousands of tutorials, published many tens of books, received many millions of pageviews per month, sold many millions of dollars of digital products, and exited for multiple 7-figures (e.g. [CleverAlgorithms](https://web.archive.org/web/20130120074424/CleverAlgorithms.com) (archived), [MobileGameEngines](https://web.archive.org/web/20131108154500/http://mobilegameengines.com/) (archived), [MachineLearningMastery](https://MachineLearningMastery.com) (sold), and [SuperFastPython](https://SuperFastPython.com).
+I've had some success with authority websites, having written thousands of tutorials, published many tens of books, received many millions of pageviews per month, sold many millions of dollars of digital products, and exited for multiple 7-figures (e.g. [CleverAlgorithms](https://web.archive.org/web/20130120074424/CleverAlgorithms.com), [MobileGameEngines](https://web.archive.org/web/20131108154500/http://mobilegameengines.com/), [MachineLearningMastery](https://MachineLearningMastery.com), and [SuperFastPython](https://SuperFastPython.com).
 
 I'm often asked about how to get started with authority websites.
 
@@ -51,6 +51,8 @@ Historical content that had a big impact on me circa 2013.
 	* Became [Tim Conley](https://timconley.webflow.io/)
 * [Super Fast Business](https://web.archive.org/web/20140113035135/http://www.superfastbusiness.com/) (archived), James Schramko.
 	* Became: [JamesSchramko.com](https://www.jamesschramko.com/)
+* [Sales Marketing Profit](https://web.archive.org/web/20140627110225/http://www.salesmarketingprofit.com/) (archived), James Schramko and Taki Moore.
+	* Became [Sales Marketing Profit Podcast](https://www.jamesschramko.com/category/sales-marketing-profit)
 * [Entrepreneurs Journey](https://web.archive.org/web/20130115055320/http://entrepreneurs-journey.com/), (archived), Yaro Starak.
 	* Became [Yaro.com](https://yaro.blog/)
 * [The Rise To The Top](https://web.archive.org/web/20130126031204/http://www.therisetothetop.com/) (archived), David Siteman Garland.
