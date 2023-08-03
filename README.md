@@ -138,23 +138,35 @@ If I was starting today, I would consider the following courses:
 ## Books on Niche Selection
 
 * [Will It Fly?: How to Test Your Next Business Idea So You Don't Waste Your Time and Money](https://amzn.to/44N6FD3), Pat Flynn.
+	* [Notes](notes/will_it_fly.md)
 * [Choose: The Single Most Important Decision Before Starting Your Business](https://amzn.to/3rVP0KU), Ryan Levesque.
-* [Become Known For A Niche You Own: Why Legendary Writers Use Languaging To Design New & Different Categories](https://amzn.to/3QnXggG), Category Pirates.
+	* [Notes](notes/choose.md)
 * [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://amzn.to/3DCKVxy), Rob Fitzpatrick.
+	* [Notes](notes/the_mom_test.md)
+* [Become Known For A Niche You Own: Why Legendary Writers Use Languaging To Design New & Different Categories](https://amzn.to/3QnXggG), Category Pirates.
+
 
 ## Books on Operations
 
 ### Work Smart/Hard
 
 * [Be Obsessed or Be Average](https://amzn.to/44N6kjL), Grant Cardone.
+	* [Notes](notes/be_obsessed_or_be_average.md)
 * [If You're Not First, You're Last: Sales Strategies to Dominate Your Market and Beat Your Competition](https://amzn.to/3DD8aaU), Grant Cardone.
+	* [Notes](notes/if_youre_not_first_youre_last.md)
 * [Getting Everything You Can Out of All You've Got: 21 Ways You Can Out-Think, Out-Perform, and Out-Earn the Competition](https://amzn.to/3rSJMzq), Jay Abraham.
+	* [Notes](notes/getting_everything_you_can_out_of_all_youve_got.md)
 * [The Effective Executive: The Definitive Guide to Getting the Right Things Done](https://amzn.to/44Jm0nY), Peter Drucker.
+	* [Notes](notes/the_effective_executive.md)
 
 ### Mindset
 
 * [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://amzn.to/3rJw5mc), Simon Sinek.
+	* [Notes](notes/start_with_why.md)
+* [The Infinite Game](https://amzn.to/3Kpw25r), Simon Sinek.
+	* [Notes](notes/the_infinite_game.md)
 * [The Practice: Shipping Creative Work](https://amzn.to/43Q9TnG), Seth Godin.
+	* [Notes](notes/the_practice.md)
 * [Steal Like an Artist: 10 Things Nobody Told You About Being Creative](https://amzn.to/3ODXjDG), Austin Kleon.
 * [Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered](https://amzn.to/3ODXxe0), Austin Kleon.
 * [Keep Going: 10 Ways to Stay Creative in Good Times and Bad](https://amzn.to/456O2d0), Austin Kleon.
