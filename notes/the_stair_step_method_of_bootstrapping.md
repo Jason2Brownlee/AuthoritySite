@@ -26,4 +26,4 @@ Here are the main points from the essay "The Stair Step Method of Bootstrapping"
 
 9. **Be Patient and Persistent:** The stair step method requires patience and persistence. Building a successful business takes time, and each step serves as a foundation for the next one.
 
-Rob Walling's "The Stair Step Method of Bootstrapping" emphasizes the importance of starting small, validating ideas, and gradually growing your business through incremental steps. By reinvesting profits and leveraging existing assets, entrepreneurs can achieve sustainable growth and build successful and profitable startups. However, please note that this summary is based on information available up to September 2021, and there may be additional insights or updates in the essay since then.
+Rob Walling's "The Stair Step Method of Bootstrapping" emphasizes the importance of starting small, validating ideas, and gradually growing your business through incremental steps. By reinvesting profits and leveraging existing assets, entrepreneurs can achieve sustainable growth and build successful and profitable startups.

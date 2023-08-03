@@ -110,19 +110,29 @@ If I was starting today, I would consider the following courses:
 ### Work Solo
 
 * [The Million-Dollar, One-Person Business: Make Great Money. Work the Way You Like. Have the Life You Want](https://amzn.to/3DDpRqO), Elaine Pofeldt.
+	* [Notes](notes/the_million_dollar_one_person_business.md)
 * [Small Giants: Companies That Choose to Be Great Instead of Big](https://amzn.to/3Olvj6H), Bo Burlingham.
+	* [Notes](notes/small_giants.md)
 * [Company Of One: Why Staying Small Is the Next Big Thing for Business](https://amzn.to/3QkTTas), Paul Jarvis.
+	* [Notes](notes/company_of_one.md)
 * [Start Small, Stay Small: A Developer's Guide to Launching a Startup](https://amzn.to/3YhpcVx), Rob Walling.
+	* [Notes](notes/start_small_stay_small.md)
 * [Tiny Business, Big Money: Strategies for Creating a High-Revenue Microbusiness](https://amzn.to/3DBBTks), Elaine Pofeldt.
 
 ### Business
 
 * [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://amzn.to/3QhEhUX), Eric Jorgenson.
-* [The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich](https://amzn.to/47ifFl1), Timothy Ferriss .
+	* [Notes](notes/the_almanack_of_naval_ravikant.md)
+* [The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich](https://amzn.to/47ifFl1), Timothy Ferriss.
+	* [Notes](notes/the_4_hour_workweek.md)
 * [Ready, Fire, Aim: Zero to $100 Million in No Time Flat](https://amzn.to/3Ql9VAT), Michael Masterson.
-* [Zero to One: Notes on Start Ups, or How to Build the Future](https://amzn.to/3qaXey2), Blake Masters and Peter Thiel.
+	* [Notes](notes/ready_fire_aim.md)
+* [Zero to One: Notes on Start Ups, or How to Build the Future](https://amzn.to/3qaXey2), Peter Thiel.
+	* [Notes](notes/zero_to_one.md)
 * [Business Made Simple: 60 Days to Master Leadership, Sales, Marketing, Execution, Management, Personal Productivity and More](https://amzn.to/3Ko8fTI), Donald Miller.
+	* [Notes](notes/business_made_simple.md)
 * [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About](https://amzn.to/3DDCv9b), Michael Gerber.
+	* [Notes](notes/the_e_myth_revisited.md)
 
 ## Books on Niche Selection
 
@@ -264,11 +274,11 @@ I don't think people take advice. Honestly, I think the above resources are only
 
 But I might be wrong. If only one person is inspired to dive in, then this guide was worth it.
 
-### Disclosure
+### Disclosures
 
-I have added links to all books on Amazon.
+I have added links to all books on Amazon. If you purchase a book from Amazon using my links, thank you kindly. As an Amazon Associate I earn from qualifying purchases.
 
-If you purchase a book from Amazon using my links, thank you kindly. As an Amazon Associate I earn from qualifying purchases.
+I have added notes on some books and essays. ChatGPT was used to provide lists of the main points.
 
 ### Email me
 
