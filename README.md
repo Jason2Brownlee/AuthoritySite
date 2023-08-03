@@ -6,7 +6,7 @@ Advice on how to develop, operate, and sell an authority website.
 
 An authority website is a highly trusted and reputable online platform recognized for its extensive, well-researched content and expertise in a specific niche or industry.
 
-I've had some success developing, running, and selling authority websites, having written thousands of tutorials, many tens of books, received millions of pageviews per month, and sold many millions of dollars of digital products (e.g. [CleverAlgorithms](https://web.archive.org/web/20130120074424/CleverAlgorithms.com) (archived), [MobileGameEngines](https://web.archive.org/web/20131108154500/http://mobilegameengines.com/) (archived), [MachineLearningMastery](https://MachineLearningMastery.com) (sold), and [SuperFastPython](https://SuperFastPython.com)).
+I've had some success developing, running, and selling authority websites, having written thousands of tutorials, many tens of books, received many millions of pageviews per month, and sold many millions of dollars of digital products (e.g. [CleverAlgorithms](https://web.archive.org/web/20130120074424/CleverAlgorithms.com) (archived), [MobileGameEngines](https://web.archive.org/web/20131108154500/http://mobilegameengines.com/) (archived), [MachineLearningMastery](https://MachineLearningMastery.com) (sold), and [SuperFastPython](https://SuperFastPython.com)). I'm financially independent now because of authority sites, but still do it because I love it!
 
 Over the years I'm often asked questions about how to get started with authority websites.
 
@@ -15,8 +15,6 @@ This project captures my best advice: to read high quality books on the topic an
 I have written a book of my own on the subject (for my sons) telling the story of how I built, ran, and sold a 7-figure site (titled "_The Story of Machine Learning Mastery: How I Built, Operated, and Sold a Multimillion-Dollar Website_"). I may release it publicly one day, but not yet. Until then, this project contains my best advice in the form of a reading list.
 
 I used to direct people to my goodreads [authority shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=authority-site) and [writing shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=writing), but it is too hard to navigate.
-
-**Remember**: Reading books without changing behavior or taking action is procrastination. Start then read.
 
 ## Thesis
 
@@ -32,6 +30,7 @@ This model is repeatable, it is a skill that can be taught/learned, and it can b
 
 The resources I recommend below support this thesis.
 
+**Remember**: Reading without changing behavior or taking action is procrastination. Start then read.
 
 ## Blogs/Podcasts, Courses, Essays
 
@@ -230,14 +229,14 @@ If I was starting today, I would consider the following courses:
 * [Copywriting Secrets: How Everyone Can Use The Power Of Words To Get More Clicks, Sales and Profits . . . No Matter What You Sell Or Who You Sell It To!](https://amzn.to/44PdyDF), Jim Edwards.
 * [How to Write the Perfect Sales Page (Even If You're Not a Copywriter): The 12-Step Sales Page Template](https://amzn.to/44MhyVr), Nathan Fraser.
 
-## Books on Exiting / Selling the Business
+## Books Selling the Business
 
 * [Built to Sell: Creating a Business That Can Thrive Without You](https://amzn.to/3rKoRhM), John Warrillow.
 * [The Art of Selling Your Business: Winning Strategies & Secret Hacks for Exiting on Top](https://amzn.to/3YmJ1ec), John Warrillow.
 * [Finish Big: How Great Entrepreneurs Exit Their Companies on Top](https://amzn.to/3KhOTPN), Bo Burlingham.
 * [Before The Exit: Thought Experiments For Entrepreneurs](https://amzn.to/3KhQ5Th), Dan Andrews.
 
-## After
+## After Exiting
 
 After exiting, you have to deal with two things:
 
@@ -256,7 +255,7 @@ I've sent hundreds of emails with book recommendations to people asking how to g
 
 As far as I know, zero people I have advised started anything.
 
-I don't think people take advice. Honestly, I think the above resources are only useful to those who are already started building an authority site business or are already running one. I don't know how to motivate someone who is interested to start.
+I don't think people take advice. Honestly, I think the above resources are only useful to those who have already started building an authority site business or are already running one. I don't know how to motivate someone who is interested, to actually start.
 
 But I might be wrong. If only one person is inspired to dive in, then this guide was worth it.
 
@@ -264,9 +263,7 @@ But I might be wrong. If only one person is inspired to dive in, then this guide
 
 I have added links to all books on Amazon.
 
-If you purchase a book from amazon using my links, thank you, it supports this work.
-
-As an Amazon Associate I earn from qualifying purchases.
+If you purchase a book from Amazon using my links, thank you kindly. As an Amazon Associate I earn from qualifying purchases.
 
 ### Email me
 
