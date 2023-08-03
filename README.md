@@ -33,7 +33,7 @@ This model is repeatable, it is a skill that can be taught/learned, and it can b
 The resources I recommend below support this thesis.
 
 
-## Blogs, Podcasts, Courses
+## Blogs/Podcasts, Courses, Essays
 
 ### Blogs/Podcasts
 
@@ -63,7 +63,7 @@ Historical content that had a big impact on me circa 2013.
 
 ### Courses
 
-I think these are all dead, but they all had a massive impact.
+I think most of these courses are retired, but they all had a massive impact.
 
 * [Internet Business Mastery Academy](https://web.archive.org/web/20140227033939/http://internetbusinessmastery.com/academy/a3/login/) (archived), Jeremy and Jason.
 * [Micropreneur Academy](https://web.archive.org/web/20130115104116/http://www.micropreneur.com/) (archived), Rob Walling and Mike Taber.
@@ -73,7 +73,7 @@ I think these are all dead, but they all had a massive impact.
 	* Became [CopyHackers Library](https://copyhackers.com/books/)
 * [Altitude](https://ebenpagantraining.com/product/altitude/), Eben Pagan.
 
-If I was starting today, I would take the following courses:
+If I was starting today, I would consider the following courses:
 
 * [30x500 Academy](https://30x500.com/academy/), Amy Hoy and Alex Hillman
 * [The Authority Site System or AuthorityHacker Pro](https://www.authorityhacker.com/courses/), Mark and Gael.
@@ -90,7 +90,7 @@ If I was starting today, I would take the following courses:
 	* [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/), Nathan Barry.
 * [The 1000 Day Rule : What Living the Dream Really Looks Like](https://tropicalmba.com/articles/living-the-dream), Dan.
 
-## Authority Sites
+## Books on Authority Sites
 
 ### Website / Digital Business
 
@@ -120,14 +120,14 @@ If I was starting today, I would take the following courses:
 * [Business Made Simple: 60 Days to Master Leadership, Sales, Marketing, Execution, Management, Personal Productivity and More](https://amzn.to/3Ko8fTI), Donald Miller.
 * [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About](https://amzn.to/3DDCv9b), Michael Gerber.
 
-## Niche Selection
+## Books on Niche Selection
 
 * [Will It Fly?: How to Test Your Next Business Idea So You Don't Waste Your Time and Money](https://amzn.to/44N6FD3), Pat Flynn.
 * [Choose: The Single Most Important Decision Before Starting Your Business](https://amzn.to/3rVP0KU), Ryan Levesque.
 * [Become Known For A Niche You Own: Why Legendary Writers Use Languaging To Design New & Different Categories](https://amzn.to/3QnXggG), Category Pirates.
 * [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://amzn.to/3DCKVxy), Rob Fitzpatrick.
 
-## Operations
+## Books on Operations
 
 ### Work Smart/Hard
 
@@ -157,7 +157,7 @@ If I was starting today, I would take the following courses:
 * [The Slight Edge: Turning Simple Disciplines into Massive Success and Happiness](https://amzn.to/3Kly3jl), Jeff Olson.
 
 
-## Writing Content
+## Books on Writing Content
 
 ### Writing
 
@@ -197,7 +197,7 @@ If I was starting today, I would take the following courses:
 * [Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It](https://amzn.to/3QkUDfK), April Dunford.
 * [Launch: An Internet Millionaire's Secret Formula to Sell Almost Anything Online, Build a Business You Love, and Live the Life of Your Dreams](https://amzn.to/3DBXPff), Jeff Walker.
 
-## Sales and Marketing
+## Books on Sales and Marketing
 
 * [80/20 Sales and Marketing: The Definitive Guide to Working Less and Making More](https://amzn.to/43OTP5R), Perry Marshall.
 * [Digital Marketing For Dummies](https://amzn.to/3rUufz5), Ryan Deiss.
@@ -230,12 +230,14 @@ If I was starting today, I would take the following courses:
 * [Copywriting Secrets: How Everyone Can Use The Power Of Words To Get More Clicks, Sales and Profits . . . No Matter What You Sell Or Who You Sell It To!](https://amzn.to/44PdyDF), Jim Edwards.
 * [How to Write the Perfect Sales Page (Even If You're Not a Copywriter): The 12-Step Sales Page Template](https://amzn.to/44MhyVr), Nathan Fraser.
 
-## Exiting / Selling the Business
+## Books on Exiting / Selling the Business
 
 * [Built to Sell: Creating a Business That Can Thrive Without You](https://amzn.to/3rKoRhM), John Warrillow.
 * [The Art of Selling Your Business: Winning Strategies & Secret Hacks for Exiting on Top](https://amzn.to/3YmJ1ec), John Warrillow.
 * [Finish Big: How Great Entrepreneurs Exit Their Companies on Top](https://amzn.to/3KhOTPN), Bo Burlingham.
 * [Before The Exit: Thought Experiments For Entrepreneurs](https://amzn.to/3KhQ5Th), Dan Andrews.
+
+## After
 
 After exiting, you have to deal with two things:
 
@@ -244,7 +246,21 @@ After exiting, you have to deal with two things:
 
 See my goodreads [retirement shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=retirement) and [personal finance shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=personal-finance) for how I explored these issues.
 
-## Disclosure
+## Final Remarks
+
+### On Advice
+
+I've had tens of coffees where people "pick my brain" about building an authority site business.
+
+I've sent hundreds of emails with book recommendations to people asking how to get started.
+
+As far as I know, zero people I have advised started anything.
+
+I don't think people take advice. Honestly, I think the above resources are only useful to those who are already started building an authority site business or are already running one. I don't know how to motivate someone who is interested to start.
+
+But I might be wrong. If only one person is inspired to dive in, then this guide was worth it.
+
+### Disclosure
 
 I have added links to all books on Amazon.
 
@@ -252,11 +268,13 @@ If you purchase a book from amazon using my links, thank you, it supports this w
 
 As an Amazon Associate I earn from qualifying purchases.
 
-## Final Word
+### Email me
 
-As you can see, I love books. If you have any recommendations, let me know.
+Did this guide help? Please let me know.
 
-If you find any of these resources useful or want to chat about authority sites, send me an email.
+I love books. Do you have any recommendations? Please share some titles.
+
+If you want to chat about authority sites, please email me.
 
 Jason Brownlee
 jason.brownlee05@gmail.com
