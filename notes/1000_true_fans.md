@@ -4,7 +4,7 @@
 
 ## Summary
 
-"1000 True Fans" is not a book by Kevin Kelly, but rather a widely-known essay he wrote in 2008. The essay explores the concept of how artists, creators, and entrepreneurs can achieve sustainable success by cultivating a relatively small, dedicated fan base.
+"1000 True Fans" is a widely-known essay he wrote in 2008. The essay explores the concept of how artists, creators, and entrepreneurs can achieve sustainable success by cultivating a relatively small, dedicated fan base.
 
 Here are the main points from Kevin Kelly's essay "1000 True Fans":
 
@@ -25,4 +25,8 @@ Here are the main points from Kevin Kelly's essay "1000 True Fans":
 8. **Creating Sustainable Independence:** By cultivating a strong and loyal True Fan base, creators can achieve financial independence and artistic freedom without depending on traditional gatekeepers or mass media platforms.
 
 Kevin Kelly's "1000 True Fans" concept has been influential in the world of creators and entrepreneurship. It encourages creators to focus on building strong relationships with a smaller but dedicated fan base, rather than striving for viral success or mass-market appeal. By providing unique value and catering to the needs of True Fans, creators can sustainably support their creative endeavors and build a lasting, fulfilling career.
+
+## Math
+
+1,000 fans each purchasing a $100 product each year will result in an income of $100,000/year.
 
