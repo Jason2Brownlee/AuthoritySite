@@ -111,7 +111,7 @@ These are just some of the sales funnel types discussed in "DotCom Secrets." Eac
 
 ## Great Quotes
 
-> One of the fundamental rules of marketing is that “a confused mind always says no
+> One of the fundamental rules of marketing is that "a confused mind always says no"
 
 > If you change your bait, you'll change your customer
 
