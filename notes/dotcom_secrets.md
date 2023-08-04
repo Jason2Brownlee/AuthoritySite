@@ -148,7 +148,7 @@ Here's a summary of a typical sales funnel:
 
 The sales funnel is not a linear process, and potential customers may enter at different stages or move back and forth between stages. It is essential for businesses to understand their customers' needs and preferences at each stage to optimize the funnel and increase conversions. Additionally, customer feedback and data analysis can help identify areas for improvement to make the sales funnel more efficient and effective in converting leads into loyal customers.
 
-## What is an "Upsell"?
+### What is an "Upsell"?
 
 An upsell is a sales technique used in marketing and e-commerce to encourage customers to purchase a higher-priced or upgraded version of a product or service they are already interested in or have added to their cart. The goal of upselling is to increase the total transaction value by persuading customers to buy additional features, options, or premium versions of the item they originally intended to purchase.
 

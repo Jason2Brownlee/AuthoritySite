@@ -226,6 +226,7 @@ If I was starting today, I would consider the following courses:
 ### Information Products
 
 * [Authority: A Step-by-Step Guide to Self-Publishing](https://amzn.to/458KQgN), Nathan Barry.
+	* [Notes](notes/authority.md)
 * [Write Useful Books: A modern approach to designing and refining recommendable nonfiction](https://amzn.to/3KJQWN9), Rob Fitzpatrick.
 * [Write a Must-Read: Craft a Book That Changes Lives―Including Your Own](https://amzn.to/3qbG5o0), A.J. Harper
 * [Badass: Making Users Awesome](https://amzn.to/455wgqr), Kathy Sierra.
@@ -239,19 +240,30 @@ If I was starting today, I would consider the following courses:
 ## Books on Sales and Marketing
 
 * [80/20 Sales and Marketing: The Definitive Guide to Working Less and Making More](https://amzn.to/43OTP5R), Perry Marshall.
+	* [Notes](notes/80_20_sales_and_marketing.md)
 * [Digital Marketing For Dummies](https://amzn.to/3rUufz5), Ryan Deiss.
+	* [Notes](notes/digital_marketing_for_dummies.md)
 * [Building a StoryBrand: Clarify Your Message So Customers Will Listen](https://amzn.to/459q6pf), Donald Miller.
+	* [Notes](notes/building_a_storybrand.md)
 * [Marketing Made Simple: A Step-by-Step StoryBrand Guide for Any Business](https://amzn.to/3Yk0GTB), Donald Miller.
+	* [Notes](notes/marketing_made_simple.md)
 * [To Sell is Human: The Surprising Truth About Moving Others](https://amzn.to/3Yk0P9B), Daniel Pink.
+	* [Notes](notes/to_sell_is_human.md)
 * [Traction: A Startup Guide to Getting Customers](https://amzn.to/3YvJ47D), Gabriel Weinberg.
+	* [Notes](notes/traction.md)
 * [This is Marketing: You Can't Be Seen Until You Learn To See](https://amzn.to/3YiEyJa), Seth Godin.
+	* [Notes](notes/this_is_marketing.md)
 * [Magnetic Marketing: How To Attract A Flood Of New Customers That Pay, Stay, and Refer](https://amzn.to/3Of7flJ), Dan Kennedy.
+	* [Notes](notes/magnetic_marketing.md)
 * [Influence: The Psychology of Persuasion](https://amzn.to/3QkTZPp), Robert Cialdini.
+	* [Notes](notes/influence.md)
 
 ### Email Marketing
 
 * [Permission Marketing](https://amzn.to/47hjCGA), Seth Godin.
+	* [Notes](notes/permission_marketing.md)
 * [Invisible Selling Machine](https://amzn.to/44UPlMw), Ryan Deiss.
+	* [Notes](notes/invisible_selling_machine.md)
 
 ### Positioning
 
