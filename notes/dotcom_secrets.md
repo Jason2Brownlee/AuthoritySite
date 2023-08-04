@@ -121,8 +121,114 @@ These are just some of the sales funnel types discussed in "DotCom Secrets." Eac
 
 > A business is about what result you can get for your clients.
 
-> To overcome price resistance, increase the value of your offer so it’s worth 10 times more than what you’re selling it for.
+> To overcome price resistance, increase the value of your offer so it's worth 10 times more than what you're selling it for.
 
 > They come in looking for a result, but they stay because of their relationship with you.
 
+
+## Terminology
+
+### What is a "Sales Funnel"?
+
+A sales funnel is a marketing and sales model that represents the journey a potential customer takes from being aware of a product or service to making a purchase. It is called a "funnel" because, as prospects progress through the different stages, the number of potential customers typically decreases, similar to how a funnel narrows down.
+
+Here's a summary of a typical sales funnel:
+
+1. **Awareness:** At the top of the funnel, potential customers become aware of a product or service through various marketing channels, such as advertising, content marketing, social media, or word-of-mouth.
+
+2. **Interest:** In this stage, interested prospects start engaging more deeply with the brand. They may visit the website, read blog posts, or watch videos to learn more about the offering.
+
+3. **Consideration:** Prospects in the consideration stage are evaluating the product or service as a potential solution to their needs or problems. They may compare it with competitors and look for reviews and testimonials.
+
+4. **Intent:** At this point, the prospect expresses clear intent to make a purchase. They might add items to their shopping cart or sign up for a free trial.
+
+5. **Decision:** In the decision stage, the prospect becomes a customer by completing the purchase or converting in another desired way, such as subscribing to a service.
+
+6. **Retention:** After the initial purchase, businesses aim to retain customers by providing a positive experience, excellent customer support, and ongoing value to encourage repeat purchases and loyalty.
+
+The sales funnel is not a linear process, and potential customers may enter at different stages or move back and forth between stages. It is essential for businesses to understand their customers' needs and preferences at each stage to optimize the funnel and increase conversions. Additionally, customer feedback and data analysis can help identify areas for improvement to make the sales funnel more efficient and effective in converting leads into loyal customers.
+
+## What is an "Upsell"?
+
+An upsell is a sales technique used in marketing and e-commerce to encourage customers to purchase a higher-priced or upgraded version of a product or service they are already interested in or have added to their cart. The goal of upselling is to increase the total transaction value by persuading customers to buy additional features, options, or premium versions of the item they originally intended to purchase.
+
+Here's how an upsell typically works:
+
+1. **Customer's Initial Selection:** When a customer selects a product or service to purchase, they are shown the details of their selection and its price.
+
+2. **Upsell Offer:** At this point, an upsell offer is presented as a related or enhanced version of the original item. It may include additional features, more extensive service, or a higher-quality option.
+
+3. **Enhanced Value Proposition:** The upsell offer is presented as an enticing opportunity for customers to receive added value or benefits for a slightly higher price.
+
+4. **Opt-In Decision:** The customer can choose to accept or decline the upsell offer. It is presented as an optional addition to their original selection.
+
+5. **Increasing Order Value:** If the customer accepts the upsell, the total order value increases, leading to higher revenue for the business.
+
+Upselling is a win-win strategy when done ethically and transparently. Customers benefit from the opportunity to access better features or enhanced experiences, while businesses increase their sales and average order value. However, it's important to strike a balance and avoid overselling or pressuring customers, as a poor upselling experience can negatively impact customer trust and satisfaction.
+
+### What is an "Order Bump"?
+
+An order bump is a marketing tactic used in e-commerce and online sales funnels to increase the average order value. It involves offering customers an additional, related product or service at the point of purchase, right before they complete their transaction. The order bump is presented as an optional add-on that complements the main product or enhances the customer's experience.
+
+Here's how an order bump works:
+
+1. **Checkout Page:** When a customer reaches the checkout page to complete their purchase, they are shown the details of their selected product(s) and the total price.
+
+2. **Add-On Offer:** At this stage, an order bump appears as a small, prominently displayed offer. It could be a discounted product, an upgrade, or a complementary item that complements the main product the customer is purchasing.
+
+3. **Easy Acceptance:** The order bump is designed to be attractive and compelling, so customers find it valuable and are more likely to accept the offer without much hesitation.
+
+4. **Single-Click Add-On:** To make it convenient for customers, the order bump can typically be added to their order with just a single click, without the need to navigate to a different page or re-enter payment details.
+
+5. **Increased Revenue:** By encouraging customers to accept the order bump, businesses can increase their average order value and generate more revenue from each transaction.
+
+The order bump leverages the principle of impulse buying and encourages customers to take advantage of the additional offer while they are already in the buying mindset. It is an effective way for businesses to maximize their sales without relying solely on attracting new customers or driving additional traffic.
+
+### What is a "OTO"?
+
+OTO stands for "One-Time Offer" in the context of online marketing and sales funnels. An OTO is a special and time-limited offer that is presented to customers immediately after they have made a purchase or while they are in the process of making a purchase.
+
+Here's how an OTO typically works:
+
+1. **Post-Purchase Offer:** After a customer completes their initial purchase and enters the checkout process, they are redirected to a page where the OTO is presented.
+
+2. **Time-Limited:** OTOs are often time-sensitive and may be available for a limited time only, creating a sense of urgency for customers to take advantage of the offer immediately.
+
+3. **Complementary Offer:** OTOs are usually related to the initial purchase and complement the product or service the customer has just bought. They may offer an upgrade, additional features, a related product, or a bundle at a discounted price.
+
+4. **One-Time Offer:** As the name suggests, OTOs are typically presented only once. Once a customer declines or accepts the offer, they won't see it again.
+
+5. **Upsell Opportunity:** OTOs are a form of upselling, where businesses aim to increase the value of the customer's order by enticing them with a related and valuable offer.
+
+6. **Optional Purchase:** OTOs are presented as optional, and customers can choose to accept or decline the offer without affecting their initial purchase.
+
+The goal of OTOs is to capitalize on the moment when customers are already in the buying mindset and have just made a purchase. By offering a related, time-limited, and valuable add-on, businesses can increase the average order value and generate additional revenue from each transaction. However, it's important to strike a balance and avoid overwhelming customers with too many offers, as it could negatively impact the overall buying experience.
+
+### What is a "Digital Product"?
+
+A digital product is a type of product that exists in digital or electronic form and can be delivered and accessed through digital devices such as computers, smartphones, tablets, or e-readers. Unlike physical products, digital products do not have a tangible presence and are not made of physical materials. They are created, stored, and distributed electronically.
+
+Examples of digital products include:
+
+1. **E-books:** Books that are available in electronic format and can be read on e-readers, tablets, or computers.
+
+2. **Software Applications:** Programs and applications that run on computers or mobile devices to perform specific functions or tasks.
+
+3. **Online Courses:** Educational content delivered through videos, presentations, or interactive modules accessible over the internet.
+
+4. **Digital Music:** Music tracks, albums, or playlists that can be downloaded or streamed online.
+
+5. **Digital Art and Graphics:** Illustrations, photographs, or graphic designs created and shared in digital formats.
+
+6. **Webinars and Workshops:** Live or pre-recorded online events or workshops conducted through web conferencing platforms.
+
+7. **Digital Templates:** Pre-designed templates for presentations, websites, documents, and other purposes.
+
+8. **Mobile Apps:** Applications designed to run on smartphones or tablets for various purposes.
+
+9. **Stock Photos and Videos:** Professional photographs and video clips available for licensing and use.
+
+10. **Virtual Products and Services:** Virtual goods and services that can be accessed or experienced online, such as virtual events, virtual consultations, and virtual tours.
+
+Digital products have gained popularity due to their convenience, accessibility, and ease of distribution. They can be easily replicated and distributed to a global audience without the need for physical manufacturing or shipping. Businesses and individuals often create and sell digital products as a way to reach a wider audience and monetize their expertise, knowledge, or creativity.
 

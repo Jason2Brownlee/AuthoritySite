@@ -171,20 +171,29 @@ If I was starting today, I would consider the following courses:
 * [The Practice: Shipping Creative Work](https://amzn.to/43Q9TnG), Seth Godin.
 	* [Notes](notes/the_practice.md)
 * [Steal Like an Artist: 10 Things Nobody Told You About Being Creative](https://amzn.to/3ODXjDG), Austin Kleon.
+	* [Notes](notes/steal_like_an_artist.md)
 * [Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered](https://amzn.to/3ODXxe0), Austin Kleon.
+	* [Notes](notes/show_your_work.md)
 * [Keep Going: 10 Ways to Stay Creative in Good Times and Bad](https://amzn.to/456O2d0), Austin Kleon.
+	* [Notes](notes/keep_going.md)
 * [The Icarus Deception: How High Will You Fly?](https://amzn.to/44QrgGu), Seth Godin.
+	* [Notes](notes/the_icarus_deception.md)
 
 ### Engage to Learn
 
 * [Superfans: The Easy Way to Stand Out, Grow Your Tribe, And Build a Successful Business](https://amzn.to/455vQAn), Pat Flynn.
+	* [Notes](notes/superfans.md)
 * [Ask: The Counterintuitive Online Formula to Discover Exactly What Your Customers Want to Buy...Create a Mass of Raving Fans...and Take Any Business to the Next Level](https://amzn.to/3YhWBiS), Ryan Levesque.
+	* [Notes](notes/ask.md)
 * [Tribes: We need you to lead us](https://amzn.to/3rZNlUj), Seth Godin.
+	* [Notes](notes/tribes.md)
 
 ### Daily Results Compound
 
 * [The Compound Effect: Jumpstart Your Income, Your Life, Your Success](https://amzn.to/47aN15r), Darren Hardy.
+	* [Notes](notes/the_compound_effect.md)
 * [The Slight Edge: Turning Simple Disciplines into Massive Success and Happiness](https://amzn.to/3Kly3jl), Jeff Olson.
+	* [Notes](notes/the_slight_edge.md)
 
 
 ## Books on Writing Content
