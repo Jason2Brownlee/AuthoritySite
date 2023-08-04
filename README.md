@@ -10,7 +10,7 @@ I've had [some success](notes/success.md) with authority websites over the years
 
 This project captures my best advice: to consume quality blogs/podcasts/books on the topic and do what they say. This is how I got started.
 
-I used to send emails with lists of books, then later direct people to my goodreads [authority shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=authority-site) and [writing shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=writing).
+I used to send emails with lists of podcasts and books, then later directed people to my goodreads [authority shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=authority-site) and [writing shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=writing).
 
 ## Thesis
 
