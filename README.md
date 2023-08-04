@@ -6,17 +6,15 @@ Advice on how to build, operate, and sell an authority website (niche site) by y
 
 An authority website is a highly trusted and reputable online platform recognized for its extensive, well-researched content and expertise in a specific niche or industry.
 
-I've had some success with authority websites, having written thousands of tutorials, published many tens of books, received many millions of pageviews per month, sold many millions of dollars of digital products, and exited for multiple 7-figures (e.g. [CleverAlgorithms](https://web.archive.org/web/20130120074424/CleverAlgorithms.com), [MobileGameEngines](https://web.archive.org/web/20131108154500/http://mobilegameengines.com/), [MachineLearningMastery](https://MachineLearningMastery.com), and [SuperFastPython](https://SuperFastPython.com).
-
-I'm often asked about how to get started with authority websites.
+I've had [some success](notes/success.md) with authority websites. I'm often asked about how to get started with authority websites.
 
 This project captures my best advice: to read high quality books on the topic and do what they say. This is how I got started. Importantly, I point out _which_ high quality books to read.
 
-I used to direct people to my goodreads [authority shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=authority-site) and [writing shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=writing), but it is too hard to navigate.
+I used to send emails with lists of books, then later direct people to my goodreads [authority shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=authority-site) and [writing shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=writing).
 
 ## Thesis
 
-I focused on technical writing for developers.
+I focus on technical writing for developers.
 
 My thesis is that developers are lazy and under huge time pressures. They would prefer to search for and copy-paste answers online rather than read API docs. I refer to this as: "_no one will RTFM_". Additionally, most APIs are open source and most API docs are terse and user-unfriendly.
 
@@ -86,10 +84,13 @@ If I was starting today, I would consider the following courses:
 * [Paul Graham Essays](http://www.paulgraham.com/articles.html), Paul Graham.
 * [Derek Sivers Essays](https://sive.rs/blog), Derek Sivers.
 * [How to Get Rich](https://nav.al/rich), Naval Ravikant.
+	* [Notes](notes/how_to_get_rich.md)
 * [The Stair Step Method of Bootstrapping](https://robwalling.com/2015/03/26/the-stair-step-method-of-bootstrapping/), Rob Walling.
 	* [Notes](notes/the_stair_step_method_of_bootstrapping.md)
 * [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/), Nathan Barry.
 * [The 1000 Day Rule: What Living the Dream Really Looks Like](https://tropicalmba.com/articles/living-the-dream), Dan Andrews.
+* [How to Succeed in Business by Bundling - and Unbundling](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling), Jim Barksdale.
+	* [Notes](notes/how_to_succeed_in_business_by_bundling_and_unbundling.md)
 
 ## Books on Authority Sites
 
