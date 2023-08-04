@@ -38,5 +38,5 @@ But, 1,000 true fans is not 1,000 people on your email list or 1,000 visits to t
 
 A typical website session to sale conversion ratio for cold traffic might be 0.01% (not 1%), conservatively. Therefore, we would need 30,000 sessions to get 3 sales per day. That is about 900,000 sessions per month or nearly 11,000,000 sessions per year.
 
-Or you can for fewer sales and a more expensive product, e.g. 1 sale of a $300 product with perhaps 10,000 visits per day.
+Or you can for fewer sales and a more expensive product, e.g. 1 sale of a $300 product with perhaps 10,000 sessions per day.
 

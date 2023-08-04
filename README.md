@@ -104,7 +104,9 @@ If I was starting today, I would consider the following courses:
 * [Work Less, Make More: The counter-intuitive approach to building a profitable business, and a life you actually love](https://amzn.to/3OMDBWN), James Schramko.
 	* [Notes](notes/work_less_make_more.md)
 * [The Minimalist Entrepreneur: How Great Founders Do More with Less](https://amzn.to/43KOEUl), Sahil Lavingia.
+	* [Notes](notes/the_minimalist_entrepreneur.md)
 * [How to Get Paid for What You Know: Turning Your Knowledge, Passion, and Experience into an Online Income Stream in Your Spare Time](https://amzn.to/44ZVHd0), Graham Cochrane.
+	* [Notes](notes/how_to_get_paid_for_what_you_know.md)
 * [Building A Niche Site Empire](https://amzn.to/45d1vA5), John DeVries.
 
 
