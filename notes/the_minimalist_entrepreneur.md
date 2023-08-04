@@ -47,9 +47,6 @@ Also, it's really a reframing of "lifestyle business" or "bootstrapper", not rea
 	* Start
 
 
-Excerpt From: Sahil Lavingia. “The Minimalist Entrepreneur: How Great Founders Do More with Less.” Apple Books.
-
-
 ## Quotes
 
 > Start as soon as you can. Start before you feel ready. Start today.

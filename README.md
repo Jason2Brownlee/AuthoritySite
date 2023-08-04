@@ -6,9 +6,9 @@ Advice on how to build, operate, and sell an authority website (niche site) by y
 
 An authority website is a highly trusted and reputable online platform recognized for its extensive, well-researched content and expertise in a specific niche or industry.
 
-I've had [some success](notes/success.md) with authority websites. I'm often asked about how to get started with authority websites.
+I've had [some success](notes/success.md) with authority websites over the years. I'm often asked about how to get started.
 
-This project captures my best advice: to read high quality books on the topic and do what they say. This is how I got started. Importantly, I point out _which_ high quality books to read.
+This project captures my best advice: to consume quality blogs/podcasts/books on the topic and do what they say. This is how I got started.
 
 I used to send emails with lists of books, then later direct people to my goodreads [authority shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=authority-site) and [writing shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=writing).
 
