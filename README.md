@@ -16,9 +16,9 @@ I used to send emails with lists of podcasts and books, then later directed peop
 
 I focus on technical writing for developers.
 
-My thesis is that developers are lazy and under huge time pressures. They would prefer to search for and copy-paste answers online rather than read API docs. I refer to this as: "_no one will RTFM_". Additionally, most APIs are open source and most API docs are terse and user-unfriendly.
+My thesis is that developers are lazy and under huge time pressures. They would prefer to search for and copy-paste answers online rather than read API docs. I refer to this as: "_no one will RTFM_". Additionally, most APIs are open source and most API docs are terse and user-hostile.
 
-Therefore I created websites to answer all the common questions in a given niche with the goal of becoming a trusted resources. I offer free tutorials, free guides and free email courses, then offer paid information products for those readers looking to take the next step.
+Therefore I create websites to answer all the common questions in a given niche with the goal of becoming a trusted resources. I offer free tutorials, free guides and free email courses, then offer paid information products for those readers looking to take the next step.
 
 I also love daily writing, I love helping/serving developers, and I love figuring out messy technical topics. Therefore, the business model and work required fit me well. Consider whether they fit you.
 
