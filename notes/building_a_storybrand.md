@@ -54,3 +54,52 @@ The key elements of the StoryBrand framework are as follows:
 
 By implementing the StoryBrand framework, businesses can create a compelling and relatable narrative that resonates with customers, clarifies their message, and makes it easier for customers to understand how the business can meet their needs. The StoryBrand approach emphasizes the power of storytelling in marketing and communication and helps businesses build stronger connections with their audience.
 
+## StoryBrand Process
+
+The StoryBrand process, developed by Donald Miller, is a framework that helps businesses clarify their message and effectively communicate with their target audience. Here's a summary of the key steps in the StoryBrand process:
+
+1. **Identify the Hero:** In the StoryBrand framework, the customer is the hero, not the business. Understand your target audience and their needs, desires, and challenges.
+
+2. **Define the Problem:** Clearly articulate the problem your customers are facing. Show that you understand their struggles and frustrations.
+
+3. **Position Yourself as the Guide:** Cast your business as the guide that can help the hero (customer) overcome their challenges. Present yourself as an expert with a plan to lead them to success.
+
+4. **Offer a Clear Solution:** Present your product or service as the solution to the hero's problem. Clearly explain how it can address their pain points.
+
+5. **Show the Success Path:** Lay out a clear and simple plan for the customer to achieve success using your product or service. Break down the steps and make it easy to follow.
+
+6. **Make it Actionable:** Include a strong call-to-action that prompts the customer to take the next step, such as signing up, contacting you, or making a purchase.
+
+7. **Use Storytelling Elements:** Use storytelling elements to engage and captivate the audience. Create a narrative that resonates emotionally and keeps them interested.
+
+8. **Eliminate Confusion:** Ensure your message is clear and concise, avoiding industry jargon or confusing language. Make it easy for customers to understand what you offer.
+
+9. **Address Objections:** Anticipate and address any potential objections or concerns the customer may have. Provide evidence or testimonials to build trust.
+
+10. **Empower Customers:** Position your product or service as a tool that empowers the customer to achieve their goals and live a better life.
+
+The StoryBrand process focuses on positioning the customer as the hero, clarifying the message, and creating a compelling narrative that drives engagement and action. By following this framework, businesses can effectively communicate their value proposition and connect with their audience, resulting in increased engagement, conversions, and brand loyalty.
+
+
+### Process Summary
+
+The book has a 7-step process:
+
+A character
+	- what does the character want
+has a problem
+	- villain
+	- external problem
+	- internal problem
+	- philosophical problem
+and meets a guide
+	- empathy
+	- authority
+who gives them a plan
+	- process
+	- agreement
+and calls them to action
+	- direct
+	- transitional
+that ends in success
+and helps them avoid failure
