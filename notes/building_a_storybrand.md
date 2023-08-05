@@ -85,21 +85,21 @@ The StoryBrand process focuses on positioning the customer as the hero, clarifyi
 
 The book has a 7-step process:
 
-A character
-	- what does the character want
-has a problem
-	- villain
-	- external problem
-	- internal problem
-	- philosophical problem
-and meets a guide
-	- empathy
-	- authority
-who gives them a plan
-	- process
-	- agreement
-and calls them to action
-	- direct
-	- transitional
-that ends in success
-and helps them avoid failure
+> A character
+> 	- what does the character want
+> has a problem
+> 	- villain
+> 	- external problem
+> 	- internal problem
+> 	- philosophical problem
+> and meets a guide
+> 	- empathy
+> 	- authority
+> who gives them a plan
+> 	- process
+> 	- agreement
+> and calls them to action
+> 	- direct
+> 	- transitional
+> that ends in success
+> and helps them avoid failure
