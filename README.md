@@ -228,7 +228,8 @@ If I was starting today, I would consider the following courses:
 * [Authority: A Step-by-Step Guide to Self-Publishing](https://amzn.to/458KQgN), Nathan Barry.
 	* [Notes](notes/authority.md)
 * [Write Useful Books: A modern approach to designing and refining recommendable nonfiction](https://amzn.to/3KJQWN9), Rob Fitzpatrick.
-* [Write a Must-Read: Craft a Book That Changes Lives―Including Your Own](https://amzn.to/3qbG5o0), A.J. Harper
+* [Write a Must-Read: Craft a Book That Changes Lives―Including Your Own](https://amzn.to/3qbG5o0), A.J. Harper.
+	* [Notes](notes/write_a_must_read.md)
 * [Badass: Making Users Awesome](https://amzn.to/455wgqr), Kathy Sierra.
 * [Designing Products People Love: How Great Designers Create Successful Products](https://amzn.to/3OBC0CL), Scott Hurff.
 * [$100M Offers: How To Make Offers So Good People Feel Stupid Saying No](https://amzn.to/3ODgkq7), Alex Hormozi.
@@ -277,9 +278,13 @@ If I was starting today, I would consider the following courses:
 ### Copywriting
 
 * [The Ultimate Sales Letter: Attract New Customers. Boost Your Sales](https://amzn.to/3QjiBI2), Dan Kennedy.
+	* [Notes](notes/the_ultimate_sales_letter.md)
 * [The Adweek Copywriting Handbook: The Ultimate Guide to Writing Powerful Advertising and Marketing Copy from One of America's Top Copywriters](https://amzn.to/3rX13qZ), Joseph Sugarman.
+	* [Notes](notes/the_adweek_copywriting_handbook.md)
 * [Copywriting Secrets: How Everyone Can Use The Power Of Words To Get More Clicks, Sales and Profits . . . No Matter What You Sell Or Who You Sell It To!](https://amzn.to/44PdyDF), Jim Edwards.
+	* [Notes](notes/copywriting_secrets.md)
 * [How to Write the Perfect Sales Page (Even If You're Not a Copywriter): The 12-Step Sales Page Template](https://amzn.to/44MhyVr), Nathan Fraser.
+	* [Notes](notes/how_to_write_the_perfect_sales_page.md)
 
 ## Books Selling the Business
 
@@ -310,6 +315,8 @@ As far as I know, zero people I have advised started anything.
 I don't think people take advice. Honestly, I think the above resources are only useful to those who have already started building an authority site business or are already running one. I don't know how to motivate someone who is interested, to actually start.
 
 But I might be wrong. If only one person is inspired to dive in, then this guide was worth it.
+
+Probably the real goal of this project is so that I can talk to myself. There is so much stuff to keep in your head to do "authority sites" well that I need to constantly remind myself of things. Re-reading books and adding notes to this project does that for me.
 
 ### Disclosures
 
