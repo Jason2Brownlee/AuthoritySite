@@ -2,6 +2,8 @@
 
 Advice on how to build, operate, and sell an authority website (niche site) by yourself (solopreneur).
 
+![images/header.png]
+
 ## About
 
 An authority website is a highly trusted and reputable online platform recognized for its extensive, well-researched content and expertise in a specific niche or industry.
@@ -14,19 +16,15 @@ I used to send emails with lists of podcasts and books, then later directed peop
 
 ## Thesis
 
-I focus on technical writing for developers.
-
 My thesis is that developers are lazy and under huge time pressures. They would prefer to search for and copy-paste answers online rather than read API docs. I refer to this as: "_no one will RTFM_". Additionally, most APIs are open source and most API docs are terse and user-hostile.
 
 Therefore I create websites to answer all the common questions in a given niche with the goal of becoming a trusted resources. I offer free tutorials, free guides and free email courses, then offer paid information products for those readers looking to take the next step.
 
 I also love daily writing, I love helping/serving developers, and I love figuring out messy technical topics. Therefore, the business model and work required fit me well. Consider whether they fit you.
 
-This model is repeatable, it is a skill that can be taught/learned, and it can be improved upon. Therefore continuous study of the model itself is critical.
+This model is repeatable, it is a skill that can be taught/learned, and it can be iteratively improved upon. Therefore continuous study of the model itself (this project) is an important part of the model.
 
-The resources I recommend below support this thesis.
-
-**Remember**: Reading without changing behavior or taking action is procrastination. Start then read.
+Below are the best resources to support this thesis.
 
 ## Blogs/Podcasts, Courses, Essays
 

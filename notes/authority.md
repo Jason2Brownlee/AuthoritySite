@@ -37,27 +37,59 @@ Also:
 "Authority" provides aspiring authors and entrepreneurs with practical advice on self-publishing and establishing themselves as authorities in their fields. It emphasizes the importance of creating valuable content, building a strong platform, and engaging with the audience to build credibility and influence. By following the steps outlined in the book, individuals can position themselves as authorities and use their expertise to open up various opportunities for growth and success.
 
 
-## Use Packages (Tiered Pricing)
 
-In his book "Authority: A Step-By-Step Guide to Self-Publishing," Nathan Barry discusses the importance of creating different packages for your products to offer more value to your audience and cater to different customer preferences. He suggests that offering multiple packages can help increase sales and appeal to a broader range of customers. Here are some key points about packages that Nathan Barry highlights in the book:
 
-1. **Tiered Pricing:** Nathan Barry advocates for tiered pricing, where you offer multiple packages with varying levels of features and benefits at different price points. This approach allows customers to choose the package that best fits their needs and budget.
+## Marketing
 
-2. **Adding Value:** Each package should offer increasing value, with higher-priced packages including additional content, bonuses, or exclusive access. This encourages customers to opt for the higher-tiered packages to gain more benefits.
+Content marketing
 
-3. **Positioning:** The way you present and position your packages can influence customer perceptions. Highlight the unique value propositions of each package to make the decision-making process easier for customers.
+Write 3 massive blog posts to teach, get attention, demonstrate you are an expert and can help, get people on your list.
 
-4. **Bundling:** Consider bundling related products or services together to create more attractive and comprehensive packages. Bundling can add value to the offerings and provide a sense of convenience for customers.
+> That’s where blog posts come in—three epic blog posts, to be specific. [...] Each post should be between 1,000 and 5,000 words long. Yes, that’s a big range, but it depends so much on the content.
 
-5. **Testing and Iteration:** Don't be afraid to experiment with different package combinations and price points. Monitor customer responses and sales data to fine-tune your packages for better results.
 
-6. **Simplicity and Clarity:** Keep the package options simple and easy to understand. Avoid overwhelming customers with too many choices or complicated offerings.
+## Book Title Formulas
 
-7. **Upselling and Cross-Selling:** Utilize package options for upselling and cross-selling opportunities. Once customers have chosen a package, consider offering additional products or upgrades to enhance their experience.
+* ______________ Handbook (The Riak Handbook)
+* Bootstrapping ___________ (Bootstrapping Design)
+* Mastering _______________ (Master Object-Oriented PHP)
+* Hacking _________________ (Hacking Design)
+* Step-by-Step ____________ (Step-by-Step UI Design)
+* ______________ Bible (The Web Copywriting Bible)
+* Learn ______________ from Scratch (Learn Web Development from Scratch)
+* _______________ Survival Guide (The Designer’s Survival Guide)
+* Introduction to _____________
+* How to _________________
+* Professional ______________ (Professional Web Design)
+* _______________ for ____________ (Color Theory for Startups)
+* Principles of _________________
+* The _____________ Guide to _______ (The Entrepreneur’s Guide to Customer Development)
+* Discover ______________ (Discover Meteor)
 
-8. **Segmentation:** Tailor your packages to different customer segments, taking into account their specific needs and preferences.
+## Sales Page Elements
 
-By creating thoughtful and well-structured package options, authors and entrepreneurs can provide customers with more choices, cater to different buyer personas, and potentially increase revenue by encouraging customers to opt for higher-priced packages with added value. Nathan Barry's insights on packages are intended to help authors and entrepreneurs maximize their offerings and better serve their audience's diverse needs and preferences.
+* Why someone should care about your book
+* A sample chapter
+* The table of contents
+* Social proof
+* About the author
+* Listing your packages
+* A purchase option
+* FAQ to overcome more objections
+* Another purchase link
+
 
 
 ## Quotes
+
+> You can continue to create cutting-edge work and strive to be the best in your industry, but until you start teaching and sharing, your reach and influence will be limited.
+
+> The main idea I want to leave you with from this book is this: if you know a skill that other people use to make money, you can make a living by teaching that skill.
+
+> A decent length for an eBook is 25,000 words. If you were to maintain writing 1,000 words a day (which is really just 2 or 3 pages) for 30 days you would have 30,000 words. Do some editing and cut down your content (which is necessary), and you have a book written in 30 days. That's quite an accomplishment.
+
+> So a higher price—based on value delivered—plus multiple packages can at times increase your revenue by four times. That's how you avoid being a poor, starving author.
+
+> A good product solves a painful problem. You need to talk to your customers to find exactly what those pains are so that you can write to them.
+
+
