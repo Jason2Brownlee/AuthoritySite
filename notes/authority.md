@@ -45,7 +45,7 @@ Content marketing
 
 Write 3 massive blog posts to teach, get attention, demonstrate you are an expert and can help, get people on your list.
 
-> That’s where blog posts come in—three epic blog posts, to be specific. [...] Each post should be between 1,000 and 5,000 words long. Yes, that’s a big range, but it depends so much on the content.
+> That's where blog posts come in—three epic blog posts, to be specific. [...] Each post should be between 1,000 and 5,000 words long. Yes, that's a big range, but it depends so much on the content.
 
 
 ## Book Title Formulas
@@ -77,6 +77,14 @@ Write 3 massive blog posts to teach, get attention, demonstrate you are an exper
 * A purchase option
 * FAQ to overcome more objections
 * Another purchase link
+
+
+## Use Tiered Pricing
+
+Use packages, 3 bundles.
+
+Dramatically increase income.
+
 
 
 

@@ -16,13 +16,11 @@ I used to send emails with lists of podcasts and books, then later directed peop
 
 ## Thesis
 
-My thesis is that developers are lazy and under huge time pressures. They would prefer to search for and copy-paste answers online rather than read API docs. I refer to this as: "_no one will RTFM_". Additionally, most APIs are open source and most API docs are terse and user-hostile.
+[My thesis](notes/thesis.md) is that developers are under huge time pressures to get results. They would prefer to search for solutions online and copy-paste code rather than read and understand API docs. I refer to this as: "_no one will RTFM_". Most APIs are open source and most API docs are terse and user-hostile and developers prefer worked examples over function definitions.
 
-Therefore I create websites to answer all the common questions in a given niche with the goal of becoming a trusted resources. I offer free tutorials, free guides and free email courses, then offer paid information products for those readers looking to take the next step.
+A specific undeserved technical topic is selected as the focus for the authority site, that then offers a vast number of tutorials and answer all the common questions about the topic. Developers that need help with the topic find it via Google searches and keep coming back as the content is free and helpful, which builds trust. In exchange for an email address I offer more value in the form of free cheat sheets, guides, and email courses to readers. I then offer paid self-study information products for those readers looking to learn the topic systematically and to a greater depth.
 
-I also love daily writing, I love helping/serving developers, and I love figuring out messy technical topics. Therefore, the business model and work required fit me well. Consider whether they fit you.
-
-This model is repeatable, it is a skill that can be taught/learned, and it can be iteratively improved upon. Therefore continuous study of the model itself (this project) is an important part of the model.
+It require a love of daily writing, daily helping/serving developers, and figuring out messy technical topics. This model is repeatable, a skill that can be taught/learned, and can be iteratively improved upon. Therefore continuous study of the model itself (this project) is an important part of the model.
 
 Below are the best resources to support this thesis.
 
