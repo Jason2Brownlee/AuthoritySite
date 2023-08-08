@@ -69,6 +69,3 @@ Market Strategies:
 
 
 
-Excerpt From: April Dunford. “Obviously Awesome.” Apple Books.
-
-Excerpt From: April Dunford. “Obviously Awesome.” Apple Books.
