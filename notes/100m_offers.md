@@ -201,14 +201,14 @@ Sales-Fulfillment Continuum:
 
 We want easy to sell easy to fulfill, but there's typically a tradeoff between these concerns.
 
-> Whenever you are building a business, you have a continuum between ease of fulfillment and ease of sales. If you lower what you have to do, it increases how hard your product or service is to sell. If you do as much as possible, it makes your product or service easy to sell but hard to fulfill because there’s more demand on your time investment. The trick, and the ultimate goal, is to find a sweet spot where you sell something very well that’s also easy to fulfill.
+> Whenever you are building a business, you have a continuum between ease of fulfillment and ease of sales. If you lower what you have to do, it increases how hard your product or service is to sell. If you do as much as possible, it makes your product or service easy to sell but hard to fulfill because there's more demand on your time investment. The trick, and the ultimate goal, is to find a sweet spot where you sell something very well that's also easy to fulfill.
 
 
 After listing solutions (previous section), we need to create the solutions.
 
 Brainstorm all the ways to deliver each solution.
 
-> The next step is thinking about all the things you could do to solve each of these problems you’ve identified. This is the most important step in this process. This is what you are going to deliver.
+> The next step is thinking about all the things you could do to solve each of these problems you've identified. This is the most important step in this process. This is what you are going to deliver.
 
 Can be hard to think of different ways.
 
@@ -219,7 +219,7 @@ Product Delivery Cheat Codes: (quoted from the book)
 3. If doing something live, what environment or medium do I want to deliver it in? In-person, phone support, email support, text support, Zoom support, chat support
 4. If doing a recording, how do I want them to consume it? Audio, video, or written.
 5.How quickly do we want to reply? On what days? during what hours? 24/7. 9-5, within 5 minutes, within an hour, within 24 hrs?
-6. 10x to 1/10th test. If my customers paid me 10x my price (or $100,000) what would I provide? If they paid me 1/10th the price and I had to make my product more valuable than it already is, how would I do that? How could I still make them successful for 1/10th price? Stretch your mind in either direction and you’ll come up with widely different solutions.
+6. 10x to 1/10th test. If my customers paid me 10x my price (or $100,000) what would I provide? If they paid me 1/10th the price and I had to make my product more valuable than it already is, how would I do that? How could I still make them successful for 1/10th price? Stretch your mind in either direction and you'll come up with widely different solutions.
 
 
 Next is to Trim and Stack.
@@ -239,7 +239,7 @@ Stack what is left into a high-value bundle.
 Process (again):
 
 1. Step #1: We figured out our prospective client's dream outcome.
-2. Step #2: We listed out all the obstacles they’re likely to encounter on their way (our opportunities for value).
+2. Step #2: We listed out all the obstacles they're likely to encounter on their way (our opportunities for value).
 3. Step #3: We listed all those obstacles as solutions.
 4. Step #4: We figured out all the different ways we could deliver those solutions.
 5a. Step #5a: We trimmed those ways down to only the things that were the highest value and lowest cost to us.
@@ -251,9 +251,139 @@ Final bundle is a category of one and cannot be compared.
 > We went through this entire process to accomplish one objective: to create a valuable offer that is differentiated and unable to be compared to anything else in the marketplace. We are selling something unique. As such, we are no longer bound by the normal pricing forces of commoditization. Prospects will now only make a value-based rather than a price-based decision on whether they should buy from us. Hoorah!”
 
 ### Chapter 11. Enhancing The Offer: Scarcity, Urgency, Bonuses, Guarantees, and Naming
+
+Supply and demand curves.
+
+> Fundamentally, all marketing exists to influence the supply and demand curve.
+
+1. Increase demand through marketing.
+2. Increased demand means we can sell more units.
+3. Decrease supply to charge more for those units.
+
+> Therefore, if we seek to increase the demand (or desire), we must decrease or delay satisfying the desires of our prospects.
+
+> Hormozi Law: The longer you delay the ask, the bigger the ask you can make. “The longer the runway, the bigger the plane that can take off.
+
+Use techniques to enhance the offer (quoted):
+
+1. Use scarcity to decrease supply to raise prices (and indirectly increase demand through perceived exclusiveness)
+2. Use urgency to increase demand by decreasing the action threshold of a prospect.
+3. Use bonuses to increase demand (and increase perceived exclusivity).
+4. Use guarantees to increase demand by reversing risk.
+5. Use names to re-stimulate demand and expand awareness of my offer to my target audience.
+
 ### Chapter 12. Enhancing The Offer: Scarcity
+
+Scarcity is the most powerful method.
+
+Three types of scarcity (limited quantity):
+
+1. Limited Supply of Seats/Slots: in general or over X period of time.
+2. Limited Supply of Bonuses
+3. Never available again.
+
+> Employ one or multiple methods of scarcity in your business. You will drive a faster purchasing decision from your prospects, and at higher prices. Just let them know your limits and let psychology do the rest.
+
+
 ### Chapter 13. Enhancing The Offer: Urgency
+
+> Urgency is a function of time.
+
+Types:
+
+1. Cohort-Based Rolling Urgency
+2. Rolling Seasonal Urgency
+3. Pricing or Bonus-Based Urgency
+4. Exploding Opportunity
+
+> Adding a deadline and incorporating one or multiple forms of urgency will get more people to take action than would otherwise. I have employed all four of these methods with great effectiveness.
+
+Have a limited time offer with the old price, each time prices are increased.
+
+
 ### Chapter 14. Enhancing The Offer: Bonuses
+
+Split up the offer and value each.
+
+> The main point I want you to take away from this is that a single offer is less valuable than the same offer broken into its component parts and stacked as bonuses
+
+Describe them well, bonus bullets.
+
+Add other peoples products as bonuses.
+
+> We want to employ bonuses because they expand the price to value discrepancy and get people to purchase who otherwise wouldn't. They massively increase the prospects' perception of the value of our offer.
+
 ### Chapter 15. Enhancing The Offer: Guarantees
+
+Reduce risk. Add a guarantee.
+
+Types of Guarantees:
+
+1. Unconditional (no questions)
+2. Conditional (some limitations, like time)
+3. Anti-Guarantee (no guarantee)
+4. Implied Guarantees (performance-based payment)
+
+Stack guarantees.
+
+Describe the guarantees well.
+
+
+
+
 ### Chapter 16. Enhancing The Offer: Naming
+
+MAGIC formula for naming:
+
+* M: Magnet, make a magnetic reason
+* A: Avatar, announce the avatar
+* G: Goal, give them a goal
+* I: Interval, indicate a time interval
+* C: Container, complete with a container word
+
+Container words: Challenge, Blueprint, Bootcamp, Intensive, Incubator, Masterclass, Program, Detox, Experience, Summit, Accelerator, Fast Track, Shortcut, Sprint, Launch, Slingshot, Catapult, Explosion, System, Getaway, Meetup, Transformation, Mastermind, Launch, Game Plan, Deep Dive, Workshop, Comeback, Rebirth, Attack, Assault, Reset, Solution, Hack, Cheatcode, Liftoff, Etc.
+
+Examples:
+
+- Free Six-Week Lean-By-Halloween Challenge
+- 88% Off 12-Week Bikini Blueprint
+- Free 21-Day Mommy Makeover
+- 60-minute Make Your Friends Jealous Model Hair System
+- Six-Week Stress-Release Challenge
+- (Free!) Bend Over Pain Free in 42 Days . . . Healing Fast Track
+- $2,000-Off Celebrity Smile Transformation
+- Lakeway Moms - $1,500 Off Your Kids Braces
+- Lakeway Moms - 12 Months To A Perfect Smile ($1000 off for 15 families)
+- Back to School Free Braces Giveaway
+- Grand Opening Free X-Ray & Treatment - Instant Relief
+- Back Sore No More! 90 Day Rapid Healing Intensive (81% off!)
+- Tightness? $1 Massage New Client Summer Special
+- 5 Clients in 5 Days Blueprint
+- 7F Agency 12 Week Intensive
+- 14 Day Find Your Perfect Product Launch
+- Fill Your Gym in 30 Days (Free!)
+- ...
+
+Use this formula for each item in the value/bonus stack!
+
+> Pro Tip - Name Sub Items & Bonuses: Use the magic headline formula for each item in your stack and bundle. It will automatically enhance the value of your offerings simply by naming in a way that resonates with your prospects.
+
+
+### End
+
+Summary
+
+1. We covered why you must not be a commodity in this marketplace.
+2. Why you should pick a normal or growing market, and why niches get you riches.
+3. Why you should charge a lot of money.
+4. How to charge a lot of money using the four core value drivers.
+5. How to create your value offer in five steps.
+6. How to stack the value, deliver it, and make it profitable.
+7. How to shift the demand curve in your favor using scarcity,
+8. How to use urgency to decrease the action threshold of buyers
+9. How to strategically use bonuses to increase the demand of your offer
+10. How to completely reverse buyer risk with a creative guarantee.
+11. How to name it in a way that resonates with your avatar.
+
+
 

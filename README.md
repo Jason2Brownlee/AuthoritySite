@@ -233,7 +233,6 @@ If I was starting today, I would consider the following courses:
 	* [Notes](notes/100m_offers.md)
 * [Jobs to be Done: Theory to Practice](https://amzn.to/43OVGYg), Anthony Ulwick.
 * [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](https://amzn.to/43K6HKw), Teresa Torres.
-* [Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It](https://amzn.to/3QkUDfK), April Dunford.
 * [Launch: An Internet Millionaire's Secret Formula to Sell Almost Anything Online, Build a Business You Love, and Live the Life of Your Dreams](https://amzn.to/3DBXPff), Jeff Walker.
 
 ## Books on Sales and Marketing
@@ -271,7 +270,7 @@ If I was starting today, I would consider the following courses:
 * [Positioning: The Battle for Your Mind](https://amzn.to/3QlSsZg), Al Ries and Jack Trout.
 * [Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant](https://amzn.to/3qkLUzk), W. Chan Kim, Renee Mauborgne.
 * [Differentiate or Die: Survival in Our Era of Killer Competition](https://amzn.to/3Okn0rE), Jack Trout.
-
+* [Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It](https://amzn.to/3QkUDfK), April Dunford.
 
 ### Copywriting
 
