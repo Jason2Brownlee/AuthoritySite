@@ -20,7 +20,7 @@ I used to send emails with lists of podcasts and books, then later directed peop
 
 A specific undeserved technical topic is selected as the focus for the authority site, that then offers a vast number of tutorials and answer all the common questions about the topic. Developers that need help with the topic find it via Google searches and keep coming back as the content is free and helpful, which builds trust. In exchange for an email address I offer more value in the form of free cheat sheets, guides, and email courses to readers. I then offer paid self-study information products for those readers looking to learn the topic systematically and to a greater depth.
 
-It require a love of daily writing, daily helping/serving developers, and figuring out messy technical topics. This model is repeatable, a skill that can be taught/learned, and can be iteratively improved upon. Therefore continuous study of the model itself (this project) is an important part of the model.
+It requires a love of daily writing, daily helping/serving developers, and figuring out messy technical topics. This model is repeatable, a skill that can be taught/learned, and can be iteratively improved upon. Therefore continuous study of the model itself (this project) is an important part of the model.
 
 Below are the best resources to support this thesis.
 
@@ -230,6 +230,7 @@ If I was starting today, I would consider the following courses:
 * [Badass: Making Users Awesome](https://amzn.to/455wgqr), Kathy Sierra.
 * [Designing Products People Love: How Great Designers Create Successful Products](https://amzn.to/3OBC0CL), Scott Hurff.
 * [$100M Offers: How To Make Offers So Good People Feel Stupid Saying No](https://amzn.to/3ODgkq7), Alex Hormozi.
+	* [Notes](notes/100m_offers.md)
 * [Jobs to be Done: Theory to Practice](https://amzn.to/43OVGYg), Anthony Ulwick.
 * [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](https://amzn.to/43K6HKw), Teresa Torres.
 * [Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It](https://amzn.to/3QkUDfK), April Dunford.
