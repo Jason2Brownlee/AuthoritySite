@@ -4,6 +4,8 @@
 
 I re-read this book every few months. It's that good.
 
+There are also a lot of great checklists at [acquisition.com](https://www.acquisition.com/)
+
 
 ## Chapter Notes
 

@@ -271,6 +271,7 @@ If I was starting today, I would consider the following courses:
 * [Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant](https://amzn.to/3qkLUzk), W. Chan Kim, Renee Mauborgne.
 * [Differentiate or Die: Survival in Our Era of Killer Competition](https://amzn.to/3Okn0rE), Jack Trout.
 * [Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It](https://amzn.to/3QkUDfK), April Dunford.
+	* [Notes](notes/obviously_awesome.md)
 
 ### Copywriting
 
