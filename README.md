@@ -175,6 +175,8 @@ If I was starting today, I would consider the following courses:
 	* [Notes](notes/keep_going.md)
 * [The Icarus Deception: How High Will You Fly?](https://amzn.to/44QrgGu), Seth Godin.
 	* [Notes](notes/the_icarus_deception.md)
+* [Make Your Mark: The Creative's Guide to Building a Business with Impact](https://amzn.to/3Ky58J0), Jocelyn Glei.
+	* [Notes](notes/make_your_mark.md)
 
 ### Engage to Learn
 
