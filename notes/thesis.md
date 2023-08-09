@@ -5,11 +5,12 @@
 Focused on _Python developers_, but substitute your preferred programming language or platform.
 
 1. Python developers cannot know everything.
-2. Python developers prefer code examples over reading API docs.
-3. Python developers search for solutions online and copy-paste it into their projects to save time.
-4. Python developers trust websites that repeatedly offer working code that solves precise problems.
-5. Python developer are happy sign-up to access to free cheat sheets, guides and courses from a trusted site.
-6. Python developers are happy to purchase training material like books and courses from a trusted site.
+2. Python developers find API documentation terse if not user-hostile.
+3. Python developers prefer code examples over reading API docs.
+4. Python developers search for solutions online and copy-paste it into their projects to save time.
+5. Python developers trust websites that repeatedly offer working code that solves precise problems.
+6. Python developers are happy sign-up to access to free cheat sheets, guides and courses from a trusted site.
+7. Python developers are happy to purchase training material like books and courses from a trusted site.
 
 ## 1. Python developers cannot know everything.
 
@@ -33,7 +34,37 @@ Python developers cannot know everything about APIs due to several reasons:
 
 Overall, while Python developers can become proficient in specific APIs or areas of Python development, it is impractical to expect them to know everything about all APIs due to their sheer number, complexity, and constant evolution. Instead, developers focus on learning and becoming experts in the APIs relevant to their specific projects and interests.
 
-## 2. Python developers prefer code examples over reading API docs.
+## 2. Python developers find API documentation terse if not user-hostile.
+
+Python developers might find API documentation terse or even user-hostile for various reasons:
+
+1. **Assumed Knowledge**: Documentation might assume a certain level of familiarity with the subject matter, leading to the omission of explanations or details that could be crucial for beginners or less experienced developers.
+
+2. **Incomplete Examples**: Lack of comprehensive and illustrative code examples can make it challenging for developers to understand how to use the API effectively in real-world scenarios.
+
+3. **Jargon and Technical Language**: Excessive use of technical jargon or domain-specific terminology without adequate explanations can alienate developers who are not experts in that particular area.
+
+4. **Lack of Context**: Documentation that lacks contextual information about how the API fits into a broader framework or use case can make it difficult to grasp the purpose and potential benefits of using the API.
+
+5. **Inconsistent Formatting**: Inconsistent organization, formatting, or structure of documentation can hinder developers' ability to quickly locate the information they need.
+
+6. **Missing Tutorials or Guides**: Absence of tutorials, guides, or step-by-step explanations can make it harder for developers to get started and understand the practical aspects of using the API.
+
+7. **Complexity Overload**: Overloading documentation with intricate technical details without offering a gradual progression of complexity can overwhelm developers and impede comprehension.
+
+8. **Lack of Updates**: Outdated or poorly maintained documentation might not reflect recent changes or improvements to the API, causing confusion and frustration.
+
+9. **Sparse Contextual Information**: Documentation that only lists function signatures and parameters without explaining their purpose or how they relate to other parts of the API can leave developers guessing about how to use them effectively.
+
+10. **Minimal Error Handling Guidance**: Inadequate guidance on error handling, exceptions, and edge cases can leave developers uncertain about how to handle unexpected situations.
+
+11. **Insufficient Cross-Referencing**: Lack of cross-referencing or links to related concepts, functions, or modules can hinder developers' ability to navigate the documentation seamlessly.
+
+12. **Complexity Bias**: Assuming that developers are already comfortable with advanced concepts can exclude those who are trying to learn or master those concepts.
+
+To improve the usability of API documentation, developers should prioritize clarity, consistency, and user-centered design. Including thorough explanations, relevant examples, practical use cases, and clear navigation aids can enhance the overall user experience and make the documentation more accessible to a wider range of developers.
+
+## 3. Python developers prefer code examples over reading API docs.
 
 Python developers might prefer code examples over reading API docs for several reasons:
 
@@ -59,7 +90,7 @@ Python developers might prefer code examples over reading API docs for several r
 
 While code examples are valuable, they should be used in conjunction with official API documentation. They can offer practical insights and quick-start guides, but comprehensive understanding and awareness of the API's nuances, edge cases, and limitations are best acquired through thorough API documentation study.
 
-## 3. Python developers search for solutions online and copy-paste it into their projects to save time.
+## 4. Python developers search for solutions online and copy-paste it into their projects to save time.
 
 Python developers often search for solutions online and copy-paste them into their projects to save time for several reasons:
 
@@ -85,7 +116,67 @@ Python developers often search for solutions online and copy-paste them into the
 
 While copy-pasting code can be beneficial, developers should exercise caution and thoroughly understand the code they are using. Blindly incorporating code without comprehension can lead to potential bugs, security vulnerabilities, or inefficiencies. It's essential to review and adapt code snippets to fit the specific context of the project, adhering to best practices and ensuring proper attribution for open-source contributions.
 
-## 4. Python developers trust websites that repeatedly offer working code that solves precise problems.
+### Arguments For This Preference
+
+1. Accessibility and Convenience:
+   - Online search engines like Google provide quick and convenient access to a vast amount of information.
+   - Online searches can be performed anytime, anywhere, allowing developers to find answers in real-time.
+
+2. Specificity and Relevance:
+   - Online searches often yield results that are tailored to specific problems or questions developers have.
+   - Documentation/manuals may not always address the specific issues or edge cases developers encounter.
+
+3. Community Knowledge and Experience:
+   - Online communities, forums, and Q&A platforms offer insights from developers who have faced similar challenges.
+   - Developers often value the practical experiences and solutions shared by peers in online discussions.
+
+4. Time Efficiency:
+   - Online searching saves time by providing immediate answers, avoiding the need to sift through lengthy documentation.
+   - Developers can quickly find code snippets, examples, or tutorials that help them solve problems efficiently.
+
+5. Constantly Evolving Technologies:
+   - Technology and programming languages are continuously evolving, making documentation lag behind in covering the latest updates.
+   - Online sources can provide more up-to-date information on emerging technologies or frameworks.
+
+6. Documentation Quality and Accessibility:
+   - Some documentation may be poorly organized, hard to navigate, or lack search functionality, making it less appealing to developers.
+   - Online search results often present information in a more user-friendly and easily digestible format.
+
+7. Preference for Hands-On Learning:
+   - Developers often prefer practical, hands-on learning experiences over extensive reading.
+   - Online resources offer interactive tutorials, video demonstrations, and code repositories that align with this preference.
+
+### Arguments Against this Preference:
+
+1. Comprehensive Understanding:
+   - Documentation/manuals often provide a comprehensive understanding of a system, technology, or framework, offering in-depth explanations and conceptual foundations.
+   - Developers may turn to documentation when they seek a more holistic understanding beyond the immediate problem at hand.
+
+2. Accuracy and Reliability:
+   - Official documentation/manuals are typically authored or approved by the creators or maintainers of the technology, ensuring accuracy and reliability.
+   - Online sources may contain outdated or incorrect information, whereas documentation is usually kept up-to-date.
+
+3. Standard Practices and Guidelines:
+   - Documentation/manuals often outline best practices, coding standards, and guidelines that developers should adhere to.
+   - These resources ensure consistency and maintainable code, which may not be easily found or emphasized in online searches.
+
+4. Technical Specifications and APIs:
+   - Documentation/manuals provide detailed technical specifications, API references, and documentation of libraries, enabling developers to utilize them effectively.
+   - Online searches may not always provide the level of specificity or comprehensive information required for deep integration and understanding.
+
+5. Offline Access and Portability:
+   - Documentation/manuals can be downloaded, saved, or printed, allowing developers to access them offline or carry them in portable formats.
+   - Online searching may not be feasible or practical in certain environments or situations without a reliable internet connection.
+
+6. Learning from Established Sources:
+   - Developers may prefer learning from reputable and authoritative sources, such as official documentation/manuals, textbooks, or well-known publications.
+   - These sources are trusted for accurate information and foundational knowledge, which may not always be guaranteed through online searching.
+
+7. Learning Complex Concepts:
+   - Documentation/manuals often provide comprehensive explanations of complex concepts, algorithms, or design patterns that may require in-depth study.
+   - Online searches may offer more fragmented or simplified explanations that may not delve into the underlying principles.
+
+## 5. Python developers trust websites that repeatedly offer working code that solves precise problems.
 
 Python developers might trust websites that repeatedly offer working code that solves precise problems for several reasons:
 
@@ -112,7 +203,7 @@ Python developers might trust websites that repeatedly offer working code that s
 It's essential for developers to exercise critical judgment and verify code examples before implementing them in their projects, especially when dealing with sensitive or mission-critical applications. Even reputable sources can contain errors or may not be the best fit for every use case. Verifying code quality, understanding the underlying logic, and conducting thorough testing are crucial steps in ensuring the reliability of any code found online.
 
 
-## 5. Python developer are happy sign-up to access to free cheat sheets, guides and courses from a trusted site
+## 6. Python developer are happy sign-up to access to free cheat sheets, guides and courses from a trusted site
 
 Python developers might be happy to sign up and access free cheat sheets, guides, and courses from a trusted site for several reasons:
 
@@ -139,7 +230,7 @@ Python developers might be happy to sign up and access free cheat sheets, guides
 Overall, having access to free cheat sheets, guides, and courses from a trusted site offers Python developers a valuable opportunity to expand their knowledge, advance their skills, and stay updated with the latest developments in the Python ecosystem, all while saving time and money.
 
 
-## 6. Python developers are happy to purchase training material like books and courses from a trusted site.
+## 7. Python developers are happy to purchase training material like books and courses from a trusted site.
 
 Python developers might be happy to purchase training material like books and courses from a trusted site for several compelling reasons:
 

@@ -16,7 +16,7 @@ I used to send emails with lists of podcasts and books, then later directed peop
 
 ## Thesis
 
-[My thesis](notes/thesis.md) is that developers are under huge time pressures to get results. They would prefer to search for solutions online and copy-paste code rather than read and understand API docs. I refer to this as: "_no one will RTFM_". Most APIs are open source and most API docs are terse and user-hostile and developers prefer worked examples over function definitions.
+[My thesis](notes/thesis.md) is that developers are under huge time pressures to get results. They would prefer to search for solutions online and copy-paste code rather than read and understand API docs. I refer to this as: "_no one will RTFM_". Most APIs are open source and most API docs are terse and user-hostile and developers prefer worked examples over function definitions. Tools like ChatGPT and GPT4 have an [impact on this thesis](notes/thesis_chatgpt.md).
 
 A specific undeserved technical topic is selected as the focus for the authority site, that then offers a vast number of tutorials and answer all the common questions about the topic. Developers that need help with the topic find it via Google searches and keep coming back as the content is free and helpful, which builds trust. In exchange for an email address I offer more value in the form of free cheat sheets, guides, and email courses to readers. I then offer paid self-study information products for those readers looking to learn the topic systematically and to a greater depth.
 
