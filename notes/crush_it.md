@@ -28,3 +28,23 @@
 
 Overall, "Crush It!" motivates readers to embrace their passions, leverage social media platforms, and take action to build a personal brand that aligns with their interests and expertise. By providing valuable content and engaging authentically with their audience, individuals can create a thriving online presence and turn their passions into a fulfilling and profitable venture.
 
+## Quotes
+
+> Live your passion. What does that mean, anyway? It means that when you get up for work every morning, every single morning, you are pumped because you get to talk about or work with or do the thing that interests you the most in the world. You don't live for vacations because you don't need a break from what you're doing—working, playing, and relaxing are one and the same. You don't even pay attention to how many hours you're working because to you, it's not really work. You're making money, but you'd do whatever it is you're doing for free.
+
+> Even if your ambitions are huge, start slow, start small, build gradually, build smart.
+
+> There no longer has to be a difference between who you are and what you do.
+
+> Developing your personal brand is the same thing as living and breathing your résumé
+
+> skills are cheap, passion is priceless
+
+> Building and sustaining community is a never-ending part of doing business.
+
+> You may not have connections, or an education, or wealth, but with enough passion and sweat, you can make anything happen.
+
+> The Internet is as powerful as oxygen, but we have not seen its full capabilities. It's got a long way to go, and it's going to morph and change and reveal all kinds of surprises. You've got to be prepared to evolve and adapt along with it.
+
+> Quality is a tremendous filter. Cream always rises, my friends, no matter how many cups of coffee you pour.
+

@@ -163,7 +163,7 @@ If I was starting today, I would consider the following courses:
 
 * [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://amzn.to/3rJw5mc), Simon Sinek.
 	* [Notes](notes/start_with_why.md)
-* [The Infinite Game](https://amzn.to/3Kpw25r), Simon Sinek.
+* [The Infinite Game: How Great Businesses Achieve Long-lasting Success](https://amzn.to/3Kpw25r), Simon Sinek.
 	* [Notes](notes/the_infinite_game.md)
 * [The Practice: Shipping Creative Work](https://amzn.to/43Q9TnG), Seth Godin.
 	* [Notes](notes/the_practice.md)
