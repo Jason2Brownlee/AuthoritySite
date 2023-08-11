@@ -244,14 +244,106 @@ Opposite of a cult (a good idea, instead of a bad idea)
 > every great business is built around a secret that’s hidden from the outside
 
 ### 9 Foundations
+
+Get things right in the beginning, or you're done.
+
+> “Thiel’s law”: a startup messed up at its foundation cannot be fixed.
+
+Choice of founders / partners.
+
+Equity splits.
+
+Contracts about the future / if things go bad.
+
+
+
 ### 10 The Mechanics of Mafia
+
+Hire great people that you want to hang out with after work.
+
+> From the start, I wanted PayPal to be tightly knit instead of transactional. I thought stronger relationships would make us not just happier and better at work but also more successful in our careers even beyond PayPal. So we set out to hire people who would actually enjoy working together. They had to be talented, but even more than that they had to be excited about working specifically with us. That was the start of the PayPal Mafia.
+
+Be like a cult, but working on something right. Fanatical.
+
+> People at a successful startup are fanatically right about something those outside it have missed.
+
 ### 11 If You Build It, Will They Come?
+
+Sales. Distribution.
+
+> We underestimate the importance of distribution—a catchall term for everything it takes to sell a product—because we share the same bias
+
+Sales is hard. You must make it happen.
+
+Killer sales can even make a monopoly.
+
+> Superior sales and distribution by itself can create a monopoly, even with no product differentiation.
+
+There is a gap between personal sales (high-touch) and no sales (ads).
+
+> In between personal sales (salespeople obviously required) and traditional advertising (no salespeople required) there is a dead zone.
+
+If you can't reach customers by high-touch (because the produce is not expensive enough) or ads (because they don't congregate where you can advertise), you're in trouble.
+
+Also sell your company to employees and investors. E.g. "the secret". Eventually sell to the media, e.g. PR.
+
+We're all salespeople.
+
+> Everybody has a product to sell—no matter whether you’re an employee, a founder, or an investor. It’s true even if your company consists of just you and your computer. Look around. If you don’t see any salespeople, you’re the salesperson.
+
+
 ### 12 Man and Machine
+
+Tech does not replace people, it amplifies people.
+
+Better to amplify with tech then to replace with different/cheaper people (globalization).
+
+> The stark differences between man and machine mean that gains from working with computers are much higher than gains from trade with other people.
+
+The pairing can also be the core of the business.
+
+> Complementarity between computers and humans isn’t just a macro-scale fact. It’s also the path to building a great business.
+
+We miss it. We're trained to miss it.
+
+> Software engineers tend to work on projects that replace human efforts because that’s what they’re trained to do.
+
+> Just look at the trendiest fields in computer science today. The very term “machine learning” evokes imagery of replacement, and its boosters seem to believe that computers can be taught to perform almost any task, so long as we feed them enough training data.
+
+Together, we'll do new things.
+
+> As we find new ways to use computers, they won’t just get better at the kinds of things people already do; they’ll help us to do what was previously unimaginable.
+
 ### 13 Seeing Green
+
+n/a
+
 ### 14 The Founder’s Paradox
+
+Founders are odd people.
+
+They are not average, they are contradictions.
+
+> Normally we expect opposite traits to be mutually exclusive: a normal person can’t be both rich and poor at the same time, for instance. But it happens all the time to founders: startup CEOs can be cash poor but millionaires on paper.
+
+These traits are exaggerated in a cycle.
+
+They are strange, but we need them.
+
+If you are a founder, accept the trade-off.
+
+> The lesson for founders is that individual prominence and adulation can never be enjoyed except on the condition that it may be exchanged for individual notoriety and demonization at any moment—so be careful.
+
+
 ### Conclusion: Stagnation or Singularity?
 
+Expect a take-off.
 
+> That leaves the fourth scenario, in which we create new technology to make a much better future.
+
+But we have to build it.
+
+> Our task today is to find singular ways to create the new things that will make the future not just different, but better—to go from 0 to 1. The essential first step is to think for yourself. Only by seeing our world anew, as fresh and strange as it was to the ancients who saw it first, can we both re-create it and preserve it for the future.
 
 ## Quotes
 
