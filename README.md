@@ -209,6 +209,7 @@ If I was starting today, I would consider the following courses:
 * [The Art and Business of Online Writing: How to Beat the Game of Capturing and Keeping Attention](https://amzn.to/3DCKALi), Nicolas Cole.
 * [Content Inc.: How Entrepreneurs Use Content to Build Massive Audiences and Create Radically Successful Businesses](https://amzn.to/3qgg3zV), Joe Pulizzi.
 * [Compound Marketing: How Smart Entrepreneurs Use Asset-Building Marketing Strategies for an Unfair Growth Advantage](https://amzn.to/3Ko8huO), Dan Norris.
+	* [Notes](notes/compound_marketing.md)
 * [Content Machine: Use Content Marketing to Build a 7-figure Business With Zero Advertising](https://amzn.to/3OzVUhF), Dan Norris.
 * [They Ask, You Answer: A Revolutionary Approach to Inbound Sales, Content Marketing, and Today's Digital Consumer](https://amzn.to/44OCsDw), Marcus Sheridan.
 
