@@ -9,11 +9,12 @@ I probably like the concept more than the book.
 Something like:
 
 * Do compound marketing (e.g. answer all the questions).
-* Each piece of content is a new door to the business.
+* (The value of) each piece of content is a new door to the business.
 * Content compounds overtime
 	* Niche grows/internet grows (if you chose right), so it naturally gets more traffic.
-	* Page rank increases as people link to it and share it.
+	* Page rank increases as people link to it and share it, you get more traffic.
 	* Becomes more valuable as you get better at converting traffic.
+	* Collectively, the content demonstrates topical authority (to readers, to google).
 
 This is not covered per se, but the book does have a chapter on content marketing and does talk about compounding effects. If the whole book was on this concept, it'd be more useful.
 
