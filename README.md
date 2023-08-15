@@ -105,6 +105,8 @@ If I was starting today, I would consider the following courses:
 	* [Notes](notes/the_minimalist_entrepreneur.md)
 * [How to Get Paid for What You Know: Turning Your Knowledge, Passion, and Experience into an Online Income Stream in Your Spare Time](https://amzn.to/44ZVHd0), Graham Cochrane.
 	* [Notes](notes/how_to_get_paid_for_what_you_know.md)
+* [12 Months to $1 Million: How to Pick a Winning Product, Build a Real Business, and Become a Seven-Figure Entrepreneur](https://amzn.to/3OVrsP9), Ryan Moran.
+	* [Notes](notes/12_months_to_1_million.md)
 * [Building A Niche Site Empire](https://amzn.to/45d1vA5), John DeVries.
 
 
