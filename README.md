@@ -240,6 +240,11 @@ If I was starting today, I would consider the following courses:
 * [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](https://amzn.to/43K6HKw), Teresa Torres.
 * [Launch: An Internet Millionaire's Secret Formula to Sell Almost Anything Online, Build a Business You Love, and Live the Life of Your Dreams](https://amzn.to/3DBXPff), Jeff Walker.
 
+### Coaching
+
+* [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://amzn.to/3KJgFVG), Michael Bungay Stanier.
+	* [Notes](notes/the_coaching_habit.md)
+
 ## Books on Sales and Marketing
 
 * [80/20 Sales and Marketing: The Definitive Guide to Working Less and Making More](https://amzn.to/43OTP5R), Perry Marshall.
