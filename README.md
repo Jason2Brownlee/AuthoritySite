@@ -88,6 +88,7 @@ If I was starting today, I would consider the following courses:
 	* [Notes](notes/the_1000_day_rule.md)
 * [How to Succeed in Business by Bundling - and Unbundling](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling), Jim Barksdale.
 	* [Notes](notes/how_to_succeed_in_business_by_bundling_and_unbundling.md)
+* [How To Design Powerful Training Courses](https://www.jamesschramko.com/business/how-to-design-powerful-training-courses)
 
 ## Books on Authority Sites
 
