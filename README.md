@@ -100,6 +100,8 @@ If I was starting today, I would consider the following courses:
 	* [Notes](notes/the_millionaire_fastlane.md)
 * [Crush It!: Why Now Is the Time to Cash In on Your Passion](https://amzn.to/44OBpU6), Gary Vaynerchuk.
 	* [Notes](notes/crush_it.md)
+* [Smarter, Faster, Cheaper: Non-Boring, Fluff-Free Strategies for Marketing and Promoting Your Business](https://amzn.to/3PfLGDu), David Siteman Garland.
+	* [Notes](notes/smarter_faster_cheaper.md)
 * [Work Less, Make More: The counter-intuitive approach to building a profitable business, and a life you actually love](https://amzn.to/3OMDBWN), James Schramko.
 	* [Notes](notes/work_less_make_more.md)
 * [The Minimalist Entrepreneur: How Great Founders Do More with Less](https://amzn.to/43KOEUl), Sahil Lavingia.
