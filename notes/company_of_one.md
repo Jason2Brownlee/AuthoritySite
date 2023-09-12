@@ -267,15 +267,38 @@ Use automation.
 
 ### Chapter 11. Launching and Iterating in Tiny Steps
 
+> As a company of one, you need to reach profitability as quickly as possible.
 
+Minimum Viable Profit!
+
+> The assumption at work here is that your MVPr — not the number of your customers, not your measured growth, not even your gross revenue — is the most important determinant of the sustainability of your company of one.
+
+> Becoming a business that earns revenues predictably and consistently is a milestone for a company of one.
+
+> ... you don’t learn anything until you launch.
+
+> For a company of one to launch a new product, the process has to be simple.
+
+> This may sound obvious, but businesses need to solve problems for their customers. [...] So your first goal, as a company of one just starting out, is to figure out the best way to solve a specific audience’s problems, and then get to work at doing it quickly and cost-effectively.
+
+> Launching isn’t a onetime, singular event, but a continual process of launch, measure, adjust, repeat.
+
+> A new business or product you could start right now by executing the smallest version of your idea
 
 ### Chapter 12. The Hidden Value of Relationships
 
+> A company of one finds its true north by working toward being better, not bigger, and the way to do that is to build long-term relationships with its audience and customers.
+
+> Having the empathy to learn what a consumer really wants from your company of one besides your product or service — whether it’s knowledge, education, or just help — can go a long way. Empathy takes a relationship from “What can I sell you?” to “How can I truly help you?” This is the way to bank social capital: by starting a long-term and mutually beneficial relationship.
+
+> How you could get to know your customers as real people with specific problems
 
 
 ### Chapter 13. Starting a Company of One—My Story
 
+> A desire to get rich quick or achieve business fame isn’t going to motivate you for long, since neither is quickly possible, regardless of who you are. There are much easier ways to make money or become famous in the world.
 
 
+How to start advice...
 
-
+> How you could start your own company of one right now, with some first version of what you want to do
