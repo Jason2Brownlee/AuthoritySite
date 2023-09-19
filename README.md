@@ -18,7 +18,7 @@ I used to send emails with lists of podcasts and books, then later directed peop
 
 [My thesis](notes/thesis.md) is that developers are under huge time pressures to get results. They would prefer to search for solutions online and copy-paste code rather than read and understand API docs. I refer to this as: "_no one will RTFM_". Most APIs are open source and most API docs are terse and user-hostile and developers prefer worked examples over function definitions. Tools like ChatGPT and GPT4 have an [impact on this thesis](notes/thesis_chatgpt.md).
 
-A specific undeserved technical topic is selected as the focus for the authority site, that then offers a vast number of tutorials and answer all the common questions about the topic. Developers that need help with the topic find it via Google searches and keep coming back as the content is free and helpful, which builds trust. In exchange for an email address I offer more value in the form of free cheat sheets, guides, and email courses to readers. I then offer paid self-study information products for those readers looking to learn the topic systematically and to a greater depth.
+A specific undeserved technical topic is selected as the focus for the authority site, that then offers a vast number of tutorials and answer all the common questions about the topic. Developers that need help with the topic find it via Google searches and keep coming back as the content is free and helpful, which builds trust. In exchange for an email address the site offers more value in the form of free cheat sheets, guides, and email courses to readers. Once on the list, the site then offers paid self-study information products for those readers looking to learn the topic systematically and to a greater depth.
 
 It requires a love of daily writing, daily helping/serving developers, and figuring out messy technical topics. This model is repeatable, a skill that can be taught/learned, and can be iteratively improved upon. Therefore continuous study of the model itself (this project) is an important part of the model.
 
@@ -332,8 +332,6 @@ Probably the real goal of this project is so that I can talk to myself. There is
 ### Disclosures
 
 I have added links to all books on Amazon. If you purchase a book from Amazon using my links, thank you kindly. As an Amazon Associate I earn from qualifying purchases.
-
-I have added notes on some books and essays. ChatGPT was used to provide lists of the main points.
 
 ### Email me
 
