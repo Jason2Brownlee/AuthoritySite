@@ -1,8 +1,8 @@
+![Authority Site Advice](images/header.png)
+
 # Authority Site Advice
 
 Advice on how to build, operate, and sell an authority website (niche site) by yourself (solopreneur).
-
-![Authority Site Advice](images/header.png)
 
 ## About
 
@@ -297,7 +297,7 @@ If I was starting today, I would consider the following courses:
 * [How to Write the Perfect Sales Page (Even If You're Not a Copywriter): The 12-Step Sales Page Template](https://amzn.to/44MhyVr), Nathan Fraser.
 	* [Notes](notes/how_to_write_the_perfect_sales_page.md)
 
-## Books Selling the Business
+## Books on Selling the Business
 
 * [Built to Sell: Creating a Business That Can Thrive Without You](https://amzn.to/3rKoRhM), John Warrillow.
 * [The Art of Selling Your Business: Winning Strategies & Secret Hacks for Exiting on Top](https://amzn.to/3YmJ1ec), John Warrillow.
