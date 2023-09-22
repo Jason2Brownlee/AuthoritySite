@@ -57,17 +57,21 @@ Start by listing the parent topics and their relationship to the current topic. 
 
 For example, if the topic is "python logging", then one parent topic is "python" and another is "logging". Start to build up a hierarchy of parent topics to your chosen topic.
 
+```default
 -> Programming
 	-> Python Programming
 		-> Advanced Python Programming
 			-> Python Logging
+```
 
 Or perhaps you can explore a language agnostic approach:
 
+```default
 -> Software Development
 	-> Programming
 		-> Maintenance
 			-> Logging
+```
 
 Now brainstorm sibling topics that fit along side your chosen topic.
 
@@ -78,13 +82,14 @@ This will help you understand and choose the right level of detail for your topi
 For example, if the topic is "python logging", then sibling topics might be "python unit testing", "python profiling", and "python debugging". They all feel like advanced topics, separate from basic python programming.
 
 
-
+```default
 -> Advanced Python Programming
 	-> Python Logging
 	-> Python Unit Testing
 	-> Python Profiling
 	-> Python Debugging
 	-> ...
+```
 
 The sibling topics are adjacent to your topic and out of scope for now.
 
@@ -104,6 +109,7 @@ It might be helpful to consider this from two angles. The first from your progra
 
 For example, if the topic is "python logging", then subtopics might include "logging to file", "logging to a database", "logging levels", and so on.
 
+```default
 Programming
 	-> Python Programming
 		-> Python Logging
@@ -111,6 +117,7 @@ Programming
 			-> Logging to Database
 			-> Logging Levels
 			-> ...
+```
 
 Exhaust your knowledge of the topic by listing every subtopic you can think of at the appropriate level of detail. This might include sub-topics, if that helps.
 
