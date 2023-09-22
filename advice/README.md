@@ -42,7 +42,7 @@ I've sent hundreds of emails with book recommendations to people asking how to g
 
 As far as I know, zero people I have advised started anything.
 
-I don't think people take advice. Honestly, I think the above resources are only useful to those who have already started building an authority site business or are already running one. I don't know how to motivate someone who is interested, to actually start.
+I don't think people take advice. Honestly, I think this project is only useful to those who have already started building an authority site business or are already running one. I don't know how to motivate someone who is interested, to actually start.
 
 But I might be wrong. If only one person is inspired to dive in, then this guide was worth it.
 

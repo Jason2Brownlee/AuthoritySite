@@ -4,6 +4,9 @@ You get good at this stuff by doing.
 
 To get ideas of things to do, read good quality essays and books and listen to good quality podcasts.
 
+I used to send emails with lists of podcasts and books, then later directed people to my goodreads [authority shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=authority-site) and [writing shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=writing).
+
+I think the list below is better.
 
 ## Blogs/Podcasts, Courses, Essays
 

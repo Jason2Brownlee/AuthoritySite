@@ -10,9 +10,7 @@ An authority website is a highly trusted and reputable online platform recognize
 
 I've had [some success](advice/success.md) with authority websites over the years. I'm often asked about how to get started.
 
-This project captures my best advice: to consume quality blogs/podcasts/books on the topic and do what they say. This is how I got started.
-
-I used to send emails with lists of podcasts and books, then later directed people to my goodreads [authority shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=authority-site) and [writing shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=writing).
+This project captures my best advice on the topic: to consume quality blogs/podcasts/books on the topic and do what they say. This is how I got started.
 
 ## Thesis
 
@@ -41,13 +39,3 @@ If you really do want to know what I think, you can see my synthesized advice he
 * [Authority Site Advice](advice/README.md)
 
 
-### Email me
-
-Did this guide help? Please let me know.
-
-I love books. Do you have any recommendations? Please share some titles.
-
-If you want to chat about authority sites, please email me.
-
-Jason Brownlee
-jason.brownlee05@gmail.com
