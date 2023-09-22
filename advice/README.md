@@ -1,4 +1,4 @@
-# Advice
+# # Authority Site Advice
 
 Pithy notes from synthesizing a ton of essays, books, and podcasts (all credit to them), or attempts to motivate myself to get back to work (so just get back to work already).
 
@@ -20,4 +20,38 @@ Pithy notes from synthesizing a ton of essays, books, and podcasts (all credit t
 5. [Choose a Niche](choose_a_niche.md)
 6. [Niche Deep Dive](niche_deep_dive.md)
 7. [Niche Testing](niche_testing.md)
+
+
+
+
+
+## On A Book of Advice
+
+I did write a book of my experiences building, running and selling an authority site.
+
+At this stage, I'm keeping it private, e.g. for my sons when the grow up, mainly because it's filled with verbatim emails and real business numbers, etc.
+
+I may release it later.
+
+
+## On Taking Advice
+
+I've had tens of coffees where people "pick my brain" about building an authority site business.
+
+I've sent hundreds of emails with book recommendations to people asking how to get started.
+
+As far as I know, zero people I have advised started anything.
+
+I don't think people take advice. Honestly, I think the above resources are only useful to those who have already started building an authority site business or are already running one. I don't know how to motivate someone who is interested, to actually start.
+
+But I might be wrong. If only one person is inspired to dive in, then this guide was worth it.
+
+Probably the real goal of this project is so that I can talk to myself. There is so much stuff to keep in your head to do "authority sites" well that I need to constantly remind myself of things. Re-reading books and adding notes to this project does that for me.
+
+## Did Any Of This Help?
+
+I'd love to hear if any of this helped you in some small way.
+
+Please let me know: jason.brownlee05@gmail.com
+
 
