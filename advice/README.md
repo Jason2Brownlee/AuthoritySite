@@ -21,8 +21,17 @@ Pithy notes from synthesizing a ton of essays, books, and podcasts (all credit t
 6. [Niche Deep Dive](niche_deep_dive.md)
 7. [Niche Testing](niche_testing.md)
 
+Other ad hoc niche stuff:
 
-
+* [It's Arbitrage](arbitrage.md)
+* [Follow Your Curiosity](curiosity.md)
+* [Create a Destination](destination.md)
+* [For Developers](for_developers.md)
+* [Iterative](iterative.md)
+* [Everything Is Provisional](everything_is_provisional.md)
+* [Money Topic](money_topic.md)
+* [Unbundle](unbundle.md)
+* [Edge](edge.md)
 
 
 ## On A Book of Advice
