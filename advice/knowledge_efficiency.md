@@ -19,4 +19,28 @@ More reading:
 * [Entrepreneurship, remote work and FUN convo with Dan Andrews](https://noahkagan.com/dan-andrews/), 2023.
 
 
+Thoughts from our friend chatgpt:
+
+Developing a business around optimizing existing processes (faster, cheaper, better) can often be more profitable and easier than focusing on teaching clients something entirely new. Here's a summary of the advantages:
+
+1. **Existing Demand**: Optimizing existing processes addresses a pre-existing need or demand in the market. People are already engaged in these activities and are actively seeking ways to make them more efficient.
+
+2. **Lower Learning Curve**: Clients are already familiar with the processes, so there is a lower learning curve. They don't need to acquire entirely new knowledge or skills, which can make adoption smoother and faster.
+
+3. **Faster ROI**: The return on investment for clients is often quicker because they can immediately apply the optimized processes to their current operations.
+
+4. **Lower Risk**: There's less risk involved because you're building on established practices. Clients are more likely to trust solutions that enhance their existing workflows.
+
+5. **Market Validation**: The fact that people are already engaged in these activities is a form of market validation. It confirms that there is demand for improvements.
+
+6. **Competitive Advantage**: Offering faster, cheaper, and better solutions can give your business a competitive advantage. It distinguishes you from others who may be focusing on teaching entirely new concepts.
+
+7. **Scalability**: Optimizing existing processes can often be scaled more easily. Once you've refined a solution, you can apply it to a broader client base.
+
+8. **Sustainability**: Improving existing processes is typically more sustainable in the long run because it aligns with ongoing market needs.
+
+While optimizing existing processes can be a lucrative approach, it's important to note that there's still room for innovation and disruption. In some cases, introducing entirely new concepts or knowledge can lead to groundbreaking solutions and business success. The choice between these two approaches should be driven by the specific needs of the market and the strengths of the business.
+
+
+
 
