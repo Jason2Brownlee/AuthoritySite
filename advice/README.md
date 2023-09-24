@@ -33,6 +33,7 @@ Other ad hoc niche stuff:
 * [Unbundle](unbundle.md)
 * [Edge](edge.md)
 * [Real Estate](realestate.md)
+* [Knowledge vs Efficiency](knowledge_efficiency.md)
 
 Understand your customer deeply
 
