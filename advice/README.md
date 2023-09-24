@@ -33,6 +33,13 @@ Other ad hoc niche stuff:
 * [Unbundle](unbundle.md)
 * [Edge](edge.md)
 
+Understand your customer deeply
+
+* [Get Into the Customer](get_into_the_customer.md)
+* [Your Ideal Customer](your_ideal_customer.md)
+* [Connect with Your Ideal Reader](connect_with_your_ideal_reader.md)
+
+
 
 ## On A Book of Advice
 
