@@ -34,6 +34,7 @@ Other ad hoc niche stuff:
 * [Edge](edge.md)
 * [Real Estate](realestate.md)
 * [Knowledge vs Efficiency](knowledge_efficiency.md)
+* [Asymmetric Upside](asymmetry.md)
 
 Understand your customer deeply
 

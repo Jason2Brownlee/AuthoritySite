@@ -8,7 +8,16 @@ This is called "The Knowledge Gap Fallacy" or the "Knowledge Gap vs. The Efficie
 
 We are expects and teaching developers "the way" is our default approach. It is also a much harder business to build.
 
-It is MUCH easier to develop a business that helps developers do what they are already doing. No education is required. Little risk on your or their part. The outcome is known and desired.
+It is MUCH easier to develop a business that helps developers do what they are already doing.
+
+* No education is required.
+* Little risk on your or their part.
+* The outcome is known and desired.
+* They already value the solution.
+* They already invest in the area.
+* They really do want faster, cheaper, better and see how it can impact their bottom line.
+
+
 
 More reading:
 
