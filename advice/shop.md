@@ -1,4 +1,4 @@
-* It's a shop
+# It's a shop
 
 Think about this:
 

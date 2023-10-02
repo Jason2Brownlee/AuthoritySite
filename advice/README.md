@@ -2,6 +2,8 @@
 
 Pithy notes from synthesizing a ton of essays, books, and podcasts (all credit to them), or attempts to motivate myself to get back to work (so just get back to work already).
 
+Beware of repetition, it's intentional.
+
 ## Basics
 
 * [Assumptions](assumptions.md)
@@ -42,13 +44,25 @@ Understand your customer deeply
 * [Your Ideal Customer](your_ideal_customer.md)
 * [Connect with Your Ideal Reader](connect_with_your_ideal_reader.md)
 
-## Website Stuff
+## Website
 
 * [Website](website.md)
 * [Borrow Ideas](borrow.md)
 * [It's a Shop](shop.md)
 * [Silo Structure](silo.md)
 * [Give and Sell](give_and_sell.md)
+
+## Content and Tutorials
+
+* [Boring](boring.md)
+* [Confusion](confusion.md)
+* [Clear](clear.md)
+* [Content Marketing Value](content_marketing_value.md)
+* [Build The Asset](build_asset.md)
+* [Volume](volume.md)
+* [Flywheel](flywheel.md)
+* [Brick Walls](brick_walls.md)
+* [1% Better Every Day](one_percent.md)
 
 
 ## On A Book of Advice
