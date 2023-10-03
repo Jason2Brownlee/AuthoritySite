@@ -35,6 +35,7 @@ Other ad hoc niche stuff:
 * [Unbundle](unbundle.md)
 * [Edge](edge.md)
 * [Real Estate](realestate.md)
+* [Mining](mining.md)
 * [Knowledge vs Efficiency](knowledge_efficiency.md)
 * [Asymmetric Upside](asymmetry.md)
 
@@ -54,6 +55,8 @@ Understand your customer deeply
 
 ## Content and Tutorials
 
+* [Write Great Tutorials](great_tutorials.md)
+* [Tutorial Types](tutorial_types.md)
 * [Boring](boring.md)
 * [Confusion](confusion.md)
 * [Clear](clear.md)
@@ -63,7 +66,9 @@ Understand your customer deeply
 * [Flywheel](flywheel.md)
 * [Brick Walls](brick_walls.md)
 * [1% Better Every Day](one_percent.md)
-
+* [Keep Up To Date](up_to_date.md)
+* [Video?](video.md)
+* [Not Perfect](not_perfect.md)
 
 ## On A Book of Advice
 
