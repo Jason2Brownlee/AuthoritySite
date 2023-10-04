@@ -76,6 +76,7 @@ Understand your customer deeply
 
 * [What Products](what_products.md)
 * [Write Books](write_books.md)
+* [Cover The Topic Well](cover_the_topic.md)
 
 
 ## On A Book of Advice
