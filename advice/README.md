@@ -13,7 +13,9 @@ Beware of repetition, it's intentional.
 * [Why](why.md)
 * [Personal Why](personal_why.md)
 
-## Choose a Niche
+## Niche
+
+Process for choosing a niche:
 
 1. [Before, Get Obsessed](before_obsessed.md)
 2. [Brainstorm](brainstorm.md)
@@ -53,7 +55,7 @@ Understand your customer deeply
 * [Silo Structure](silo.md)
 * [Give and Sell](give_and_sell.md)
 
-## Content and Tutorials
+## Tutorials
 
 * [Write Great Tutorials](great_tutorials.md)
 * [Tutorial Types](tutorial_types.md)
@@ -69,6 +71,11 @@ Understand your customer deeply
 * [Keep Up To Date](up_to_date.md)
 * [Video?](video.md)
 * [Not Perfect](not_perfect.md)
+
+## Products
+
+* [Write Books](write_books.md)
+
 
 ## On A Book of Advice
 
