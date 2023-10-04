@@ -74,6 +74,7 @@ Understand your customer deeply
 
 ## Products
 
+* [What Products](what_products.md)
 * [Write Books](write_books.md)
 
 

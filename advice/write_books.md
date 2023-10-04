@@ -122,7 +122,7 @@ The introduction sells the book, (e.g. PAS structure or problem, agitate, solve)
 The back matter is resources like books and APIs to visit to get more help and review of what was learned.
 
 
-## formatting
+## Formatting
 
 The book is built in latex using a standard template that is consistent with all other books in the catalog.
 
