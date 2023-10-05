@@ -2,7 +2,7 @@
 
 # Authority Site Advice
 
-Advice on how to build, operate, and sell an authority website (niche site) by yourself (solopreneur).
+Resources and advice on how to build, operate, and sell an authority website (niche site) by yourself (solopreneur).
 
 <!-- section -->
 ## About
@@ -32,10 +32,6 @@ My first piece of advice is that I recommend reading high-quality books and list
 This is how I learned.
 
 You get good at this stuff by doing. To get ideas of things to do, read good quality essays and books and listen to good quality podcasts.
-
-I used to send emails with lists of podcasts and books, then later directed people to my GoodReads [authority shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=authority-site) and [writing shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=writing).
-
-I think the list of resources below is better.
 
 
 ### Blogs/Podcasts, Courses, Essays
@@ -90,18 +86,18 @@ If I was starting today, I would consider the following courses:
 #### Essays
 
 * [1000 True Fans](https://kk.org/thetechnium/1000-true-fans/), Kevin Kelly.
-	* [Notes](notes/1000_true_fans.md)
+	* [Notes](resources/1000_true_fans.md)
 * [Paul Graham Essays](http://www.paulgraham.com/articles.html), Paul Graham.
 * [Derek Sivers Essays](https://sive.rs/blog), Derek Sivers.
 * [How to Get Rich](https://nav.al/rich), Naval Ravikant.
-	* [Notes](notes/how_to_get_rich.md)
+	* [Notes](resources/how_to_get_rich.md)
 * [The Stair Step Method of Bootstrapping](https://robwalling.com/2015/03/26/the-stair-step-method-of-bootstrapping/), Rob Walling.
-	* [Notes](notes/the_stair_step_method_of_bootstrapping.md)
+	* [Notes](resources/the_stair_step_method_of_bootstrapping.md)
 * [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/), Nathan Barry.
 * [The 1000 Day Rule: What Living the Dream Really Looks Like](https://tropicalmba.com/articles/living-the-dream), Dan Andrews.
-	* [Notes](notes/the_1000_day_rule.md)
+	* [Notes](resources/the_1000_day_rule.md)
 * [How to Succeed in Business by Bundling - and Unbundling](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling), Jim Barksdale.
-	* [Notes](notes/how_to_succeed_in_business_by_bundling_and_unbundling.md)
+	* [Notes](resources/how_to_succeed_in_business_by_bundling_and_unbundling.md)
 * [How To Design Powerful Training Courses](https://www.jamesschramko.com/business/how-to-design-powerful-training-courses), James Schramko.
 
 ### Books on Authority Sites
@@ -109,59 +105,59 @@ If I was starting today, I would consider the following courses:
 #### Website / Digital Business
 
 * [DotCom Secrets: The Underground Playbook for Growing Your Company Online](https://amzn.to/3DAafnW), Russell Brunson.
-	* [Notes](notes/dotcom_secrets.md)
+	* [Notes](resources/dotcom_secrets.md)
 * [The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!](https://amzn.to/3OCJHss), M.J. DeMarco.
-	* [Notes](notes/the_millionaire_fastlane.md)
+	* [Notes](resources/the_millionaire_fastlane.md)
 * [Crush It!: Why Now Is the Time to Cash In on Your Passion](https://amzn.to/44OBpU6), Gary Vaynerchuk.
-	* [Notes](notes/crush_it.md)
+	* [Notes](resources/crush_it.md)
 * [Smarter, Faster, Cheaper: Non-Boring, Fluff-Free Strategies for Marketing and Promoting Your Business](https://amzn.to/3PfLGDu), David Siteman Garland.
-	* [Notes](notes/smarter_faster_cheaper.md)
+	* [Notes](resources/smarter_faster_cheaper.md)
 * [Work Less, Make More: The counter-intuitive approach to building a profitable business, and a life you actually love](https://amzn.to/3OMDBWN), James Schramko.
-	* [Notes](notes/work_less_make_more.md)
+	* [Notes](resources/work_less_make_more.md)
 * [The Minimalist Entrepreneur: How Great Founders Do More with Less](https://amzn.to/43KOEUl), Sahil Lavingia.
-	* [Notes](notes/the_minimalist_entrepreneur.md)
+	* [Notes](resources/the_minimalist_entrepreneur.md)
 * [How to Get Paid for What You Know: Turning Your Knowledge, Passion, and Experience into an Online Income Stream in Your Spare Time](https://amzn.to/44ZVHd0), Graham Cochrane.
-	* [Notes](notes/how_to_get_paid_for_what_you_know.md)
+	* [Notes](resources/how_to_get_paid_for_what_you_know.md)
 * [12 Months to $1 Million: How to Pick a Winning Product, Build a Real Business, and Become a Seven-Figure Entrepreneur](https://amzn.to/3OVrsP9), Ryan Moran.
-	* [Notes](notes/12_months_to_1_million.md)
+	* [Notes](resources/12_months_to_1_million.md)
 * [Building A Niche Site Empire](https://amzn.to/45d1vA5), John DeVries.
 
 
 #### Work Solo
 
 * [The Million-Dollar, One-Person Business: Make Great Money. Work the Way You Like. Have the Life You Want](https://amzn.to/3DDpRqO), Elaine Pofeldt.
-	* [Notes](notes/the_million_dollar_one_person_business.md)
+	* [Notes](resources/the_million_dollar_one_person_business.md)
 * [Small Giants: Companies That Choose to Be Great Instead of Big](https://amzn.to/3Olvj6H), Bo Burlingham.
-	* [Notes](notes/small_giants.md)
+	* [Notes](resources/small_giants.md)
 * [Company Of One: Why Staying Small Is the Next Big Thing for Business](https://amzn.to/3QkTTas), Paul Jarvis.
-	* [Notes](notes/company_of_one.md)
+	* [Notes](resources/company_of_one.md)
 * [Start Small, Stay Small: A Developer's Guide to Launching a Startup](https://amzn.to/3YhpcVx), Rob Walling.
-	* [Notes](notes/start_small_stay_small.md)
+	* [Notes](resources/start_small_stay_small.md)
 * [Tiny Business, Big Money: Strategies for Creating a High-Revenue Microbusiness](https://amzn.to/3DBBTks), Elaine Pofeldt.
 
 #### Business
 
 * [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://amzn.to/3QhEhUX), Eric Jorgenson.
-	* [Notes](notes/the_almanack_of_naval_ravikant.md)
+	* [Notes](resources/the_almanack_of_naval_ravikant.md)
 * [The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich](https://amzn.to/47ifFl1), Timothy Ferriss.
-	* [Notes](notes/the_4_hour_workweek.md)
+	* [Notes](resources/the_4_hour_workweek.md)
 * [Ready, Fire, Aim: Zero to $100 Million in No Time Flat](https://amzn.to/3Ql9VAT), Michael Masterson.
-	* [Notes](notes/ready_fire_aim.md)
+	* [Notes](resources/ready_fire_aim.md)
 * [Zero to One: Notes on Start Ups, or How to Build the Future](https://amzn.to/3qaXey2), Peter Thiel.
-	* [Notes](notes/zero_to_one.md)
+	* [Notes](resources/zero_to_one.md)
 * [Business Made Simple: 60 Days to Master Leadership, Sales, Marketing, Execution, Management, Personal Productivity and More](https://amzn.to/3Ko8fTI), Donald Miller.
-	* [Notes](notes/business_made_simple.md)
+	* [Notes](resources/business_made_simple.md)
 * [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About](https://amzn.to/3DDCv9b), Michael Gerber.
-	* [Notes](notes/the_e_myth_revisited.md)
+	* [Notes](resources/the_e_myth_revisited.md)
 
 ### Books on Niche Selection
 
 * [Will It Fly?: How to Test Your Next Business Idea So You Don't Waste Your Time and Money](https://amzn.to/44N6FD3), Pat Flynn.
-	* [Notes](notes/will_it_fly.md)
+	* [Notes](resources/will_it_fly.md)
 * [Choose: The Single Most Important Decision Before Starting Your Business](https://amzn.to/3rVP0KU), Ryan Levesque.
-	* [Notes](notes/choose.md)
+	* [Notes](resources/choose.md)
 * [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://amzn.to/3DCKVxy), Rob Fitzpatrick.
-	* [Notes](notes/the_mom_test.md)
+	* [Notes](resources/the_mom_test.md)
 * [Become Known For A Niche You Own: Why Legendary Writers Use Languaging To Design New & Different Categories](https://amzn.to/3QnXggG), Category Pirates.
 
 
@@ -170,48 +166,48 @@ If I was starting today, I would consider the following courses:
 #### Work Smart/Hard
 
 * [Be Obsessed or Be Average](https://amzn.to/44N6kjL), Grant Cardone.
-	* [Notes](notes/be_obsessed_or_be_average.md)
+	* [Notes](resources/be_obsessed_or_be_average.md)
 * [If You're Not First, You're Last: Sales Strategies to Dominate Your Market and Beat Your Competition](https://amzn.to/3DD8aaU), Grant Cardone.
-	* [Notes](notes/if_youre_not_first_youre_last.md)
+	* [Notes](resources/if_youre_not_first_youre_last.md)
 * [Getting Everything You Can Out of All You've Got: 21 Ways You Can Out-Think, Out-Perform, and Out-Earn the Competition](https://amzn.to/3rSJMzq), Jay Abraham.
-	* [Notes](notes/getting_everything_you_can_out_of_all_youve_got.md)
+	* [Notes](resources/getting_everything_you_can_out_of_all_youve_got.md)
 * [The Effective Executive: The Definitive Guide to Getting the Right Things Done](https://amzn.to/44Jm0nY), Peter Drucker.
-	* [Notes](notes/the_effective_executive.md)
+	* [Notes](resources/the_effective_executive.md)
 
 #### Mindset
 
 * [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://amzn.to/3rJw5mc), Simon Sinek.
-	* [Notes](notes/start_with_why.md)
+	* [Notes](resources/start_with_why.md)
 * [The Infinite Game: How Great Businesses Achieve Long-lasting Success](https://amzn.to/3Kpw25r), Simon Sinek.
-	* [Notes](notes/the_infinite_game.md)
+	* [Notes](resources/the_infinite_game.md)
 * [The Practice: Shipping Creative Work](https://amzn.to/43Q9TnG), Seth Godin.
-	* [Notes](notes/the_practice.md)
+	* [Notes](resources/the_practice.md)
 * [Steal Like an Artist: 10 Things Nobody Told You About Being Creative](https://amzn.to/3ODXjDG), Austin Kleon.
-	* [Notes](notes/steal_like_an_artist.md)
+	* [Notes](resources/steal_like_an_artist.md)
 * [Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered](https://amzn.to/3ODXxe0), Austin Kleon.
-	* [Notes](notes/show_your_work.md)
+	* [Notes](resources/show_your_work.md)
 * [Keep Going: 10 Ways to Stay Creative in Good Times and Bad](https://amzn.to/456O2d0), Austin Kleon.
-	* [Notes](notes/keep_going.md)
+	* [Notes](resources/keep_going.md)
 * [The Icarus Deception: How High Will You Fly?](https://amzn.to/44QrgGu), Seth Godin.
-	* [Notes](notes/the_icarus_deception.md)
+	* [Notes](resources/the_icarus_deception.md)
 * [Make Your Mark: The Creative's Guide to Building a Business with Impact](https://amzn.to/3Ky58J0), Jocelyn Glei.
-	* [Notes](notes/make_your_mark.md)
+	* [Notes](resources/make_your_mark.md)
 
 #### Engage to Learn
 
 * [Superfans: The Easy Way to Stand Out, Grow Your Tribe, And Build a Successful Business](https://amzn.to/455vQAn), Pat Flynn.
-	* [Notes](notes/superfans.md)
+	* [Notes](resources/superfans.md)
 * [Ask: The Counterintuitive Online Formula to Discover Exactly What Your Customers Want to Buy...Create a Mass of Raving Fans...and Take Any Business to the Next Level](https://amzn.to/3YhWBiS), Ryan Levesque.
-	* [Notes](notes/ask.md)
+	* [Notes](resources/ask.md)
 * [Tribes: We need you to lead us](https://amzn.to/3rZNlUj), Seth Godin.
-	* [Notes](notes/tribes.md)
+	* [Notes](resources/tribes.md)
 
 #### Daily Results Compound
 
 * [The Compound Effect: Jumpstart Your Income, Your Life, Your Success](https://amzn.to/47aN15r), Darren Hardy.
-	* [Notes](notes/the_compound_effect.md)
+	* [Notes](resources/the_compound_effect.md)
 * [The Slight Edge: Turning Simple Disciplines into Massive Success and Happiness](https://amzn.to/3Kly3jl), Jeff Olson.
-	* [Notes](notes/the_slight_edge.md)
+	* [Notes](resources/the_slight_edge.md)
 
 
 ### Books on Writing Content
@@ -228,7 +224,7 @@ If I was starting today, I would consider the following courses:
 * [The Art and Business of Online Writing: How to Beat the Game of Capturing and Keeping Attention](https://amzn.to/3DCKALi), Nicolas Cole.
 * [Content Inc.: How Entrepreneurs Use Content to Build Massive Audiences and Create Radically Successful Businesses](https://amzn.to/3qgg3zV), Joe Pulizzi.
 * [Compound Marketing: How Smart Entrepreneurs Use Asset-Building Marketing Strategies for an Unfair Growth Advantage](https://amzn.to/3Ko8huO), Dan Norris.
-	* [Notes](notes/compound_marketing.md)
+	* [Notes](resources/compound_marketing.md)
 * [Content Machine: Use Content Marketing to Build a 7-figure Business With Zero Advertising](https://amzn.to/3OzVUhF), Dan Norris.
 * [They Ask, You Answer: A Revolutionary Approach to Inbound Sales, Content Marketing, and Today's Digital Consumer](https://amzn.to/44OCsDw), Marcus Sheridan.
 
@@ -245,14 +241,14 @@ If I was starting today, I would consider the following courses:
 #### Information Products
 
 * [Authority: A Step-by-Step Guide to Self-Publishing](https://amzn.to/458KQgN), Nathan Barry.
-	* [Notes](notes/authority.md)
+	* [Notes](resources/authority.md)
 * [Write Useful Books: A modern approach to designing and refining recommendable nonfiction](https://amzn.to/3KJQWN9), Rob Fitzpatrick.
 * [Write a Must-Read: Craft a Book That Changes Lives―Including Your Own](https://amzn.to/3qbG5o0), A.J. Harper.
-	* [Notes](notes/write_a_must_read.md)
+	* [Notes](resources/write_a_must_read.md)
 * [Badass: Making Users Awesome](https://amzn.to/455wgqr), Kathy Sierra.
 * [Designing Products People Love: How Great Designers Create Successful Products](https://amzn.to/3OBC0CL), Scott Hurff.
 * [$100M Offers: How To Make Offers So Good People Feel Stupid Saying No](https://amzn.to/3ODgkq7), Alex Hormozi.
-	* [Notes](notes/100m_offers.md)
+	* [Notes](resources/100m_offers.md)
 * [Jobs to be Done: Theory to Practice](https://amzn.to/43OVGYg), Anthony Ulwick.
 * [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](https://amzn.to/43K6HKw), Teresa Torres.
 * [Launch: An Internet Millionaire's Secret Formula to Sell Almost Anything Online, Build a Business You Love, and Live the Life of Your Dreams](https://amzn.to/3DBXPff), Jeff Walker.
@@ -260,35 +256,35 @@ If I was starting today, I would consider the following courses:
 #### Coaching
 
 * [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://amzn.to/3KJgFVG), Michael Bungay Stanier.
-	* [Notes](notes/the_coaching_habit.md)
+	* [Notes](resources/the_coaching_habit.md)
 
 ### Books on Sales and Marketing
 
 * [80/20 Sales and Marketing: The Definitive Guide to Working Less and Making More](https://amzn.to/43OTP5R), Perry Marshall.
-	* [Notes](notes/80_20_sales_and_marketing.md)
+	* [Notes](resources/80_20_sales_and_marketing.md)
 * [Digital Marketing For Dummies](https://amzn.to/3rUufz5), Ryan Deiss.
-	* [Notes](notes/digital_marketing_for_dummies.md)
+	* [Notes](resources/digital_marketing_for_dummies.md)
 * [Building a StoryBrand: Clarify Your Message So Customers Will Listen](https://amzn.to/459q6pf), Donald Miller.
-	* [Notes](notes/building_a_storybrand.md)
+	* [Notes](resources/building_a_storybrand.md)
 * [Marketing Made Simple: A Step-by-Step StoryBrand Guide for Any Business](https://amzn.to/3Yk0GTB), Donald Miller.
-	* [Notes](notes/marketing_made_simple.md)
+	* [Notes](resources/marketing_made_simple.md)
 * [To Sell is Human: The Surprising Truth About Moving Others](https://amzn.to/3Yk0P9B), Daniel Pink.
-	* [Notes](notes/to_sell_is_human.md)
+	* [Notes](resources/to_sell_is_human.md)
 * [Traction: A Startup Guide to Getting Customers](https://amzn.to/3YvJ47D), Gabriel Weinberg.
-	* [Notes](notes/traction.md)
+	* [Notes](resources/traction.md)
 * [This is Marketing: You Can't Be Seen Until You Learn To See](https://amzn.to/3YiEyJa), Seth Godin.
-	* [Notes](notes/this_is_marketing.md)
+	* [Notes](resources/this_is_marketing.md)
 * [Magnetic Marketing: How To Attract A Flood Of New Customers That Pay, Stay, and Refer](https://amzn.to/3Of7flJ), Dan Kennedy.
-	* [Notes](notes/magnetic_marketing.md)
+	* [Notes](resources/magnetic_marketing.md)
 * [Influence: The Psychology of Persuasion](https://amzn.to/3QkTZPp), Robert Cialdini.
-	* [Notes](notes/influence.md)
+	* [Notes](resources/influence.md)
 
 #### Email Marketing
 
 * [Permission Marketing](https://amzn.to/47hjCGA), Seth Godin.
-	* [Notes](notes/permission_marketing.md)
+	* [Notes](resources/permission_marketing.md)
 * [Invisible Selling Machine](https://amzn.to/44UPlMw), Ryan Deiss.
-	* [Notes](notes/invisible_selling_machine.md)
+	* [Notes](resources/invisible_selling_machine.md)
 
 #### Positioning
 
@@ -298,18 +294,18 @@ If I was starting today, I would consider the following courses:
 * [Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant](https://amzn.to/3qkLUzk), W. Chan Kim, Renee Mauborgne.
 * [Differentiate or Die: Survival in Our Era of Killer Competition](https://amzn.to/3Okn0rE), Jack Trout.
 * [Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It](https://amzn.to/3QkUDfK), April Dunford.
-	* [Notes](notes/obviously_awesome.md)
+	* [Notes](resources/obviously_awesome.md)
 
 #### Copywriting
 
 * [The Ultimate Sales Letter: Attract New Customers. Boost Your Sales](https://amzn.to/3QjiBI2), Dan Kennedy.
-	* [Notes](notes/the_ultimate_sales_letter.md)
+	* [Notes](resources/the_ultimate_sales_letter.md)
 * [The Adweek Copywriting Handbook: The Ultimate Guide to Writing Powerful Advertising and Marketing Copy from One of America's Top Copywriters](https://amzn.to/3rX13qZ), Joseph Sugarman.
-	* [Notes](notes/the_adweek_copywriting_handbook.md)
+	* [Notes](resources/the_adweek_copywriting_handbook.md)
 * [Copywriting Secrets: How Everyone Can Use The Power Of Words To Get More Clicks, Sales and Profits . . . No Matter What You Sell Or Who You Sell It To!](https://amzn.to/44PdyDF), Jim Edwards.
-	* [Notes](notes/copywriting_secrets.md)
+	* [Notes](resources/copywriting_secrets.md)
 * [How to Write the Perfect Sales Page (Even If You're Not a Copywriter): The 12-Step Sales Page Template](https://amzn.to/44MhyVr), Nathan Fraser.
-	* [Notes](notes/how_to_write_the_perfect_sales_page.md)
+	* [Notes](resources/how_to_write_the_perfect_sales_page.md)
 
 ### Books on Selling the Business
 
