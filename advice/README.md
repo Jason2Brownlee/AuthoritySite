@@ -79,6 +79,9 @@ Understand your customer deeply
 * [Cover The Topic Well](cover_the_topic.md)
 * [Ads](ads.md)
 * [How to write a technical book (in brief)](how_to_write_technical_book.md)
+* [Closure](closure.md)
+* [Launch Early](early.md)
+* [Give It All Away](give_all_away.md)
 
 
 ## On A Book of Advice
