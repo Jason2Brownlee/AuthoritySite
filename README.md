@@ -323,15 +323,15 @@ After exiting, you have to deal with two things:
 
 See my GoodReads [retirement shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=retirement) and [personal finance shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=personal-finance) for how I explored these issues.
 
-
+For more books on authority sites see my GoodReads [authority shelf](https://www.goodreads.com/review/list/5243638-jason?shelf=authority-site).
 
 
 <!-- section -->
 ## Authority Site Advice
 
-If you really do want to know what I think, you can see my synthesized advice in this section.
+If you really want to know what I think, you can see my specific advice in this section.
 
-It contains pithy notes from synthesizing a ton of essays, books, and podcasts (all credit to them), or attempts to motivate myself to get back to work (so just get back to work already).
+It contains pithy notes from synthesizing a ton of essays, books, and podcasts (all credit to them), or attempts to motivate myself to get back to work.
 
 Beware of repetition, it's intentional.
 
