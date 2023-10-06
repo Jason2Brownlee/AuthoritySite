@@ -413,6 +413,9 @@ Understand your customer deeply
 * [Closure](advice/closure.md)
 * [Launch Early](advice/early.md)
 * [Give It All Away](advice/give_all_away.md)
+* [Hero Offer](advice/hero.md)
+* [Interview Customers](advice/interview_customers.md)
+* [Build Out a Catalog](advice/catalog.md)
 
 
 <!-- section -->
