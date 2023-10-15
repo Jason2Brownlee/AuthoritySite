@@ -403,6 +403,7 @@ Understand your customer deeply
 * [Video?](advice/video.md)
 * [Not Perfect](advice/not_perfect.md)
 * [Change the Landscape](advice/change_landscape.md)
+* [Content Marketing as Demos](advice/demos.md)
 
 ### Products
 

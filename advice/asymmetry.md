@@ -10,4 +10,6 @@ A side effect is that it can be profitable. Not that it will be, but it could be
 
 That way we can do our work, and work hard, and only win. In some cases, we can win big.
 
+Capped downside (time and effort) and unlimited upside (authority and monetary).
+
 Developing an authority site has an asymmetric upside if seen this way.
