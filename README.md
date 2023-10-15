@@ -402,6 +402,7 @@ Understand your customer deeply
 * [Keep Up To Date](advice/up_to_date.md)
 * [Video?](advice/video.md)
 * [Not Perfect](advice/not_perfect.md)
+* [Change the Landscape](advice/change_landscape.md)
 
 ### Products
 
