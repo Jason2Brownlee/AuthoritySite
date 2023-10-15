@@ -2,7 +2,7 @@
 
 # Authority Site Advice
 
-Resources and advice on how to build, operate, and sell an authority website (niche site) by yourself (solopreneur).
+[Resources](#authority-site-resources) and [advice](#authority-site-advice-1) on how to build, operate, and sell an authority website (niche site) by yourself (solopreneur).
 
 <!-- section -->
 ## About
