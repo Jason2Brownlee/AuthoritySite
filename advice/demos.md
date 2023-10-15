@@ -2,7 +2,7 @@
 
 The tutorials are a type of content marketing.
 
-We provide free helpful tutoruals that solve real problems for developers.
+We provide free helpful tutorials that solve real problems for developers.
 
 The developers use the tutorials to solve problems and/or learn something and trust the source.
 

@@ -2,7 +2,7 @@
 
 # Authority Site Advice
 
-[Resources](#authority-site-resources) and [advice](#authority-site-advice-1) on how to build, operate, and sell an authority website (niche site) by yourself (solopreneur).
+[Resources](#resources) and [advice](#advice) on how to build, operate, and sell an authority website (niche site) by yourself (solopreneur).
 
 <!-- section -->
 ## About
@@ -25,13 +25,13 @@ It requires a love of daily writing, daily helping/serving developers, and figur
 The resources I recommend and my advice all support this thesis.
 
 <!-- section -->
-## Authority Site Resources
+## Resources
 
 My first piece of advice is that I recommend reading high-quality books and listening to high-quality podcasts.
 
 This is how I learned.
 
-You get good at this stuff by doing. To get ideas of things to do, read good quality essays and books and listen to good quality podcasts.
+Remember, you get good at this stuff by doing not consuming.
 
 
 ### Blogs/Podcasts, Courses, Essays
@@ -327,7 +327,7 @@ For more books on authority sites see my GoodReads [authority shelf](https://www
 
 
 <!-- section -->
-## Authority Site Advice
+## Advice
 
 If you really want to know what I think, you can see my specific advice in this section.
 
