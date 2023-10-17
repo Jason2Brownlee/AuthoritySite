@@ -408,6 +408,7 @@ Understand your customer deeply
 ### Products
 
 * [What Products](advice/what_products.md)
+* [Product Types](advice/product_types.md)
 * [Write Books](advice/write_books.md)
 * [Cover The Topic Well](advice/cover_the_topic.md)
 * [Ads](advice/ads.md)
@@ -422,6 +423,19 @@ Understand your customer deeply
 * [Product is a Responsibility](advice/product_responsibility.md)
 * [Just Start](advice/just_start.md)
 * [Start Small](advice/start_small.md)
+
+### Sales
+
+soon
+
+
+### Operations
+
+* [Work Every Day](advice/every_day.md)
+* [Turn the Handle](advice/turn_the_handle.md)
+* [Work Anyway](advice/work_anyway.md)
+* [Courage](advice/courage.md)
+
 
 
 <!-- section -->
