@@ -418,12 +418,16 @@ Understand your customer deeply
 * [Hero Offer](advice/hero.md)
 * [Interview Customers](advice/interview_customers.md)
 * [Build Out a Catalog](advice/catalog.md)
+* [Product is a Path](advice/product_path.md)
+* [Product is a Responsibility](advice/product_responsibility.md)
+* [Just Start](advice/just_start.md)
+* [Start Small](advice/start_small.md)
 
 
 <!-- section -->
 ## Email Me
 
-Email me any time.
+Let's chat.
 
 * Know any more great books related to authority sites?
 * Did any of this advice help in some small way?
