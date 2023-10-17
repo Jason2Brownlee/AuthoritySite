@@ -424,10 +424,14 @@ Understand your customer deeply
 * [Just Start](advice/just_start.md)
 * [Start Small](advice/start_small.md)
 
-### Sales
+### Sales and Marketing
 
-soon
-
+* [Sales Funnel](advice/sales_funnel.md)
+* [Content Marketing](advice/content_marketing.md)
+* [Email Marketing](advice/email_marketing.md)
+* [Github Marketing](advice/github_marketing.md)
+* [Discounts](advice/discounts.md)
+* [Should I Run Ads?](advice/running_ads.md)
 
 ### Operations
 
