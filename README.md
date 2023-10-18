@@ -43,6 +43,7 @@ Remember, you get good at this stuff by doing not consuming.
 * [Niche Pursuits](https://www.nichepursuits.com/), Spencer Haws.
 * [My First Million](https://www.mfmpod.com/), Sam and Shaan.
 * [Founders](https://founders.simplecast.com/), David Senra.
+* [The Game](https://open.spotify.com/show/6YNopzKDGDwf0auIpPTIID?si=78187ca3d2dc491a&nd=1), Alex Hormozi.
 
 Historical content that had a big impact on me circa 2013.
 
@@ -430,8 +431,15 @@ Understand your customer deeply
 * [Content Marketing](advice/content_marketing.md)
 * [Email Marketing](advice/email_marketing.md)
 * [Github Marketing](advice/github_marketing.md)
+* [Social Marketing](advice/social_marketing.md)
 * [Discounts](advice/discounts.md)
 * [Should I Run Ads?](advice/running_ads.md)
+* [Sales Page Basics](advice/sales_page_basics.md)
+* [Sell in Private](advice/sell_in_private.md)
+* [Control the Sale](advice/control_sale.md)
+* [Teardowns](advice/teardowns.md)
+* [Just Purchased](advice/just_purchased.md)
+* [Who Are They?](advice/who_are_they.md)
 
 ### Operations
 
