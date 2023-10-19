@@ -447,7 +447,9 @@ Understand your customer deeply
 * [Turn the Handle](advice/turn_the_handle.md)
 * [Work Anyway](advice/work_anyway.md)
 * [Courage](advice/courage.md)
-
+* [Business Artifacts](advice/business_artifacts.md)
+* [Green Grass](advice/green_grass.md)
+* [Business Health](advice/business_health.md)
 
 
 <!-- section -->
