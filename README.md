@@ -122,7 +122,7 @@ If I was starting today, I would consider the following courses:
 * [12 Months to $1 Million: How to Pick a Winning Product, Build a Real Business, and Become a Seven-Figure Entrepreneur](https://amzn.to/3OVrsP9), Ryan Moran.
 	* [Notes](resources/12_months_to_1_million.md)
 * [Building A Niche Site Empire](https://amzn.to/45d1vA5), John DeVries.
-
+* [This Is Personal: The Art of Delivering the Right Email at the Right Time](https://amzn.to/3QvLcsf), Brennan Dunn.
 
 #### Work Solo
 
@@ -148,6 +148,7 @@ If I was starting today, I would consider the following courses:
 	* [Notes](resources/zero_to_one.md)
 * [Business Made Simple: 60 Days to Master Leadership, Sales, Marketing, Execution, Management, Personal Productivity and More](https://amzn.to/3Ko8fTI), Donald Miller.
 	* [Notes](resources/business_made_simple.md)
+* [How to Grow Your Small Business: A 6-Step Plan to Help Your Business Take Off](https://amzn.to/40ubO1t), Donald Miller.
 * [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About](https://amzn.to/3DDCv9b), Michael Gerber.
 	* [Notes](resources/the_e_myth_revisited.md)
 
