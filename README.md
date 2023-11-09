@@ -122,7 +122,7 @@ If I was starting today, I would consider the following courses:
 * [12 Months to $1 Million: How to Pick a Winning Product, Build a Real Business, and Become a Seven-Figure Entrepreneur](https://amzn.to/3OVrsP9), Ryan Moran.
 	* [Notes](resources/12_months_to_1_million.md)
 * [Building A Niche Site Empire](https://amzn.to/45d1vA5), John DeVries.
-* [This Is Personal: The Art of Delivering the Right Email at the Right Time](https://amzn.to/3QvLcsf), Brennan Dunn.
+* [Technical Blogging: Amplify Your Influence](https://amzn.to/3QAHGNc), Antonio Cangiano.
 
 #### Work Solo
 
@@ -287,6 +287,7 @@ If I was starting today, I would consider the following courses:
 	* [Notes](resources/permission_marketing.md)
 * [Invisible Selling Machine](https://amzn.to/44UPlMw), Ryan Deiss.
 	* [Notes](resources/invisible_selling_machine.md)
+* [This Is Personal: The Art of Delivering the Right Email at the Right Time](https://amzn.to/3QvLcsf), Brennan Dunn.
 
 #### Positioning
 
